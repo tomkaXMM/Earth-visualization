@@ -73,7 +73,7 @@ define(["module"], function (module) {
     "Water Color": { //
       id: 11,
       color: [0, 50, 200],
-      icon: 'icons/images/icons_35.png'
+      icon: 'icons/images/war.png'
     },
     "Wildfires": { //
       id: 12,

@@ -108,7 +108,7 @@ define(["exports"], function (exports) {
             React.createElement(
               "a",
               { className: "btn " + this.is('neural'), onClick: function () {
-                  return _this2.clickNeural();
+                  return _this2.clickPorts();
                 } },
               "Ports"
             ),
@@ -154,7 +154,17 @@ define(["exports"], function (exports) {
           current: "neural"
         });
       }
-    }]);
+    }, {
+      key: "clickPorts",
+      value: function clickPorts() {
+        earth.current = "ports";
+        this.setState({
+          current: "ports"
+        });
+      }
+    }
+
+  ]);
 
     return BottomSide;
   }(React.Component);

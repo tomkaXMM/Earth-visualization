@@ -126,11 +126,11 @@ define(['./src/Loaders.js', './src/ImageLoader_Overwrite.js'], function (_Loader
     var neuralNet = new convnetjs.Net();
 
     var layer = [];
-    layer.push({ type: 'input', out_sx: 1, out_sy: 1, out_depth: 2 });
-    layer.push({ type: 'fc', num_neurons: 6, activation: 'sigmoid' });
-    layer.push({ type: 'fc', num_neurons: 2, activation: 'sigmoid' });
+  //  layer.push({ type: 'input', out_sx: 1, out_sy: 1, out_depth: 2 });
+    //layer.push({ type: 'fc', num_neurons: 6, activation: 'sigmoid' });
+    //layer.push({ type: 'fc', num_neurons: 2, activation: 'sigmoid' });
     // layer.push({type:'fc', num_neurons:2, activation: 'sigmoid'});
-    layer.push({ type: 'softmax', num_classes: idToCategories.length });
+  //  layer.push({ type: 'softmax', num_classes: idToCategories.length });
 
     neuralNet.makeLayers(layer);
 

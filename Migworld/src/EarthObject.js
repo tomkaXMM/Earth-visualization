@@ -214,7 +214,7 @@ define(['exports', './Loaders.js', './Tweet.js', './CurrentLocation.js', './Cate
 //upload png image
       _this.neuralMesh = new THREE.Mesh(new THREE.SphereGeometry(10.1, 50, 50), new THREE.MeshBasicMaterial({
         map: Loaders.Texture('images/neural.png'),
-        opacity: 0.0,
+        opacity: 0.5,
         transparent: true
       }));
       _this.add(_this.neuralMesh);

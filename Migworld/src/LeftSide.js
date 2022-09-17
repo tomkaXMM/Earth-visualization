@@ -343,7 +343,7 @@ define(["exports"], function (exports) {
                 React.createElement(
                   "p",
                   null,
-                  "Made with love from Ukraine."
+                  "Made with love from 🇺🇦Ukraine🇺🇦."
                 )
               );
             }

@@ -104,7 +104,15 @@ define(["exports"], function (exports) {
                   return _this2.clickNeural();
                 } },
               "Neural Net"
-            )
+            ),
+            React.createElement(
+              "a",
+              { className: "btn " + this.is('neural'), onClick: function () {
+                  return _this2.clickNeural();
+                } },
+              "Ports"
+            ),
+
           ),
           React.createElement(
             "div",

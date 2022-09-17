@@ -143,17 +143,17 @@ define(['./src/Loaders.js', './src/EarthObject.js', './src/BottomSide.js', './sr
     scene.add(earth);
     global.earth = earth;
 
-//    var fakeData = Loaders.getJSON("dataForHenry.json");
-//    console.log(fakeData);
-//    for (var i in fakeData.events) {
-//      earth.addEvent(fakeData.events[i]);
-//    }
+    var fakeData = Loaders.getJSON("dataForHenry.json");
+    console.log(fakeData);
+    for (var i in fakeData.events) {
+      earth.addEvent(fakeData.events[i]);
+   }
 //test
-    var eData = Loaders.getJSON("events.json");
-    console.log(eData);
-    for (var j in eData.events) {
-      earth.addEvent(eData.events[j]);
-    }
+  //  var eData = Loaders.getJSON("events.json");
+  //  console.log(eData);
+  //  for (var j in eData.events) {
+  //    earth.addEvent(eData.events[j]);
+    //}
 //test
     var plane = new THREE.PlaneGeometry(1, 1);
 

@@ -211,6 +211,7 @@ define(['exports', './Loaders.js', './Tweet.js', './CurrentLocation.js', './Cate
       _this.add(_this.outlineMesh);
       _this.outlineMesh.rotation.x = Math.PI / 2;
 
+//upload png image
       _this.neuralMesh = new THREE.Mesh(new THREE.SphereGeometry(10.1, 50, 50), new THREE.MeshBasicMaterial({
         map: Loaders.Texture('images/neural.png'),
         opacity: 0.5,
@@ -221,11 +222,14 @@ define(['exports', './Loaders.js', './Tweet.js', './CurrentLocation.js', './Cate
 
       _this.neuralImg = new Image();
       _this.neuralImg.src = 'images/neural.png';
+
       _this.neuralImg.onload = function () {
         var canvas = document.createElement('canvas');
         canvas.width = _this.neuralImg.width;
         canvas.height = _this.neuralImg.height;
-        canvas.getContext('2d').drawImage(_this.neuralImg, 0, 0, _this.neuralImg.width, _this.neuralImg.height);
+
+       //canvas.getContext('2d').drawImage(_this.neuralImg, 0, 0, _this.neuralImg.width, _this.neuralImg.height);
+        canvas.getContext('2d').fillRect(100,100,1,1);
         _this.neuralCanvas = canvas;
       };
 

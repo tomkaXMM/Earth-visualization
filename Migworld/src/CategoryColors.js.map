@@ -22,7 +22,7 @@
      \"Landslides\": { //\n      id: 4,\n      color: [150, 150, 10],\n      icon: 'icons/images/icons_31.png'\n    },\n
      \"Manmade\": {\n      id: 5,\n      color: [0, 10, 20],\n      icon: 'icons/images/icons_19.png'\n    },\n
      \"Sea and Lake Ice\": {\n      id: 6,\n      color: [225, 225, 255],\n      icon: 'icons/images/icons_03.png'\n    },\n
-     \"Severe Storms\": { //\n      id: 7,\n      color: [70, 70, 70],\n      icon: 'icons/images/icons_07.png'\n    },\n
+     \"Severe Storms\": { //\n      id: 7,\n      color: [70, 70, 70],\n      icon: 'icons/images/war.png'\n    },\n
      \"Snow\": { //\n      id: 8,\n      color: [255, 255, 255],\n      icon: 'icons/images/icons_11.png'\n    },\n
      \"Temperature Extremes\": { //\n      id: 9,\n      color: [10, 150, 10],\n      icon: 'icons/images/icons_33.png'\n    },\n
     \"Volcanoes\": { //\n      id: 10,\n      color: [200, 0, 0],\n      icon: 'icons/images/icons_22.png'\n    },\n

@@ -14970,14 +14970,14 @@
           "created": "Fri Apr 22 08:21:09 +0000 2016",
           "text": "Trapped II\nThe Ukrainian forces near #Izyum #Kupyansk feel they have been trapped.\nRussian forces launched precision strikes on the encroachers. ",
           "name": "UkraineNews",
-          "screenName": "UkraineNews",
-          "userPicture": "http://pbs.twimg.com/profile_images/1775915534/Geo_normal.png",
+          "screenName": "@UkraineNews",
+          "userPicture":  "icons/images/war.png",",
           "media": "https://ichef.bbci.co.uk/news/976/cpsprodpb/C6C2/production/_126728805_mediaitem126728804.jpg"
         },
         {
           "created": "Thu Apr 21 23:34:51 +0000 2016",
           "text": "⚡️ General Staff: Spain sends 5 cargo planes with artillery ammunition to Ukraine.\nIn total, Spain has delivered 75 pallets of ammunition for large-caliber artillery systems to Ukraine over the last several days, according to Ukraine’s General Staff.",
-          "name": "TarasBulba",
+          "name": "@TarasBulba",
           "screenName": "jjavaman69",
           "userPicture": "http://pbs.twimg.com/profile_images/659057921909616640/OqRPJ382_normal.jpg",
           "media": null
@@ -14985,10 +14985,10 @@
         {
           "created": "Thu Apr 21 21:11:01 +0000 2016",
           "text": "Massive burials around #Izum confirmed to be of #Ukranian soldiers that fallen in battles and were never picked up by #Ukraine\nbodies that are exhumed wear uniforms.",
-          "name": "Katherine Elsom",
-          "screenName": "KSElsom",
+          "name": "Katherine",
+          "screenName": "@Katya",
           "userPicture": "http://pbs.twimg.com/profile_images/2113900029/photo2_normal.JPG",
-          "media": "http://pbs.twimg.com/media/CgksED1W4AAxoUs.jpg"
+          "media": "https://static.dw.com/image/60797294_303.jpg"
         },
         {
           "created": "Wed Apr 20 15:32:55 +0000 2016",
@@ -14996,7 +14996,7 @@
           "name": "Shelly Mak",
           "screenName": "ShellyMak10",
           "userPicture": "http://pbs.twimg.com/profile_images/646023267543871488/UYiKbGi7_normal.png",
-          "media": "http://pbs.twimg.com/media/Cgfvt8XUMAAybZ2.jpg"
+          "media": "https://static.dw.com/image/60797294_303.jpg"
         }
       ],
       "watson": [

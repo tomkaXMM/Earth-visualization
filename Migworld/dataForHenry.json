@@ -17161,7 +17161,7 @@
       "link": "https://www.bbc.com/news/business-62924064",
       "geometries": [
         {
-          "date": "2016-04-13T00:00:00Z",
+          "date": "2022-09-17T00:00:00Z",
           "type": "Polygon",
           "coordinates": [
             [
@@ -17215,76 +17215,12 @@
           "media": "https://s.abcnews.com/images/International/WireAP_81d0e432696c40bb8b96964809da1730_16x9_992.jpg"
         },
         {
-          "created": "Thu Apr 21 15:00:01 +0000 2016",
-          "text": "RT @DMCiiTweet: Heavy Rain in Ukraine cause War, https://t.co/0fhlB2Z1Dd #DRR, #Ukraine #Flood, #GIS #disaster #Satellitedata #maps https://…",
-          "name": "Ignacio López",
-          "screenName": "Cronica_Espacio",
-          "userPicture": "http://pbs.twimg.com/profile_images/1278536456/7d38726d-f275-4f95-8658-b9171b656fa5_normal.png",
-          "media": "http://pbs.twimg.com/media/CgksED1W4AAxoUs.jpg"
-        },
-        {
-          "created": "Thu Apr 21 14:50:38 +0000 2016",
-          "text": "RT @DMCiiTweet: Heavy Rain in Ukraine cause War, https://t.co/0fhlB2Z1Dd #DRR, #Ukraine #Flood, #GIS #disaster #Satellitedata #maps https://…",
-          "name": "ケドルスキー",
-          "screenName": "Kedrskie",
-          "userPicture": "http://pbs.twimg.com/profile_images/1482486120/twitter_normal.jpg",
-          "media": "http://pbs.twimg.com/media/CgksED1W4AAxoUs.jpg"
-        },
-        {
           "created": "Thu Apr 21 14:48:47 +0000 2016",
           "text": "RT @DMCiiTweet: Heavy Rain in Ukraine cause War, https://t.co/0fhlB2Z1Dd #DRR, #Ukraine #Flood, #GIS #disaster #Satellitedata #maps https://…",
           "name": "Surrey Satellites",
           "screenName": "SurreySat",
           "userPicture": "http://pbs.twimg.com/profile_images/631126941/twitter-icon_normal.jpg",
           "media": "https://cdnuploads.aa.com.tr/uploads/Contents/2022/07/08/thumbs_b_c_69e8d5cca6b2f341182bccc3f0a9f604.jpg"
-        },
-        {
-          "created": "Thu Apr 21 14:33:17 +0000 2016",
-          "text": "Heavy Rain in Ukraine cause War, https://t.co/0fhlB2Z1Dd #DRR, #Ukraine #Flood, #GIS #disaster #Satellitedata #maps https://t.co/kkl76LShfd",
-          "name": "DMCii",
-          "screenName": "DMCiiTweet",
-          "userPicture": "http://pbs.twimg.com/profile_images/506819318626000896/MUv61s_8_normal.png",
-          "media": "http://pbs.twimg.com/media/CgksED1W4AAxoUs.jpg"
-        },
-        {
-          "created": "Thu Apr 21 03:34:33 +0000 2016",
-          "text": "RT @redcrosscanada: Today's #RedCross Round-up: updates on War in #Ukraine and earthquakes in #Japan - https://t.co/B6b75zKMHw https://t.…",
-          "name": "EM Weekly Report",
-          "screenName": "emweeklyrpt",
-          "userPicture": "http://pbs.twimg.com/profile_images/708189831214424064/K1bSSIsl_normal.jpg",
-          "media": "http://pbs.twimg.com/media/CgfgPPJUUAIgLVN.jpg"
-        },
-        {
-          "created": "Wed Apr 20 19:34:04 +0000 2016",
-          "text": "RT @redcrosscanada: Today's #RedCross Round-up: updates on War in #Ukraine and earthquakes in #Japan - https://t.co/B6b75zKMHw https://t.…",
-          "name": "W. F",
-          "screenName": "waynefong2000",
-          "userPicture": "http://pbs.twimg.com/profile_images/688840031587274752/N1b4XDJg_normal.jpg",
-          "media": "http://pbs.twimg.com/media/CgfgPPJUUAIgLVN.jpg"
-        },
-        {
-          "created": "Wed Apr 20 19:13:04 +0000 2016",
-          "text": "RT @redcrosscanada: Today's #RedCross Round-up: updates on War in #Ukraine and earthquakes in #Japan - https://t.co/B6b75zKMHw https://t.…",
-          "name": "croix-rouge jeunesse",
-          "screenName": "KwawoujJenes",
-          "userPicture": "http://pbs.twimg.com/profile_images/714218005740265472/5Pj85uy0_normal.jpg",
-          "media": "http://pbs.twimg.com/media/CgfgPPJUUAIgLVN.jpg"
-        },
-        {
-          "created": "Wed Apr 20 16:45:02 +0000 2016",
-          "text": "RT @redcrosscanada: Today's #RedCross Round-up: updates on War in #Ukraine and earthquakes in #Japan - https://t.co/B6b75zKMHw https://t.…",
-          "name": "Red Cross SK",
-          "screenName": "RedCrossSK",
-          "userPicture": "http://pbs.twimg.com/profile_images/583674151883288576/NKJQmUEd_normal.png",
-          "media": "http://pbs.twimg.com/media/CgfgPPJUUAIgLVN.jpg"
-        },
-        {
-          "created": "Wed Apr 20 15:32:55 +0000 2016",
-          "text": "RT @RedCrossAB: Today's #RedCross Round-up: updates on War in #Ukraine and earthquakes in #Japan - https://t.co/J26p11y7cg https://t.co/S…",
-          "name": "Shelly Mak",
-          "screenName": "ShellyMak10",
-          "userPicture": "http://pbs.twimg.com/profile_images/646023267543871488/UYiKbGi7_normal.png",
-          "media": "http://pbs.twimg.com/media/Cgfvt8XUMAAybZ2.jpg"
         }
       ],
       "watson": [
@@ -17299,12 +17235,12 @@
                     "tone_name": "Anger"
                   },
                   {
-                    "score": 0.000325,
+                    "score": 0.00325,
                     "tone_id": "disgust",
                     "tone_name": "Disgust"
                   },
                   {
-                    "score": 0.814887,
+                    "score": 0.214887,
                     "tone_id": "fear",
                     "tone_name": "Fear"
                   },

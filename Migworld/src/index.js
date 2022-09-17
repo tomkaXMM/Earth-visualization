@@ -154,7 +154,7 @@ define(['./src/Loaders.js', './src/EarthObject.js', './src/BottomSide.js', './sr
     for (var j in eData.events) {
       earth.addEvent(eData.events[j]);
     }
-test
+//test
     var plane = new THREE.PlaneGeometry(1, 1);
 
     var mat = new THREE.MeshBasicMaterial({

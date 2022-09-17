@@ -209,7 +209,7 @@ define(["exports"], function (exports) {
               return React.createElement(
                 "div",
                 null,
-                React.createElement("img", { src: "images/radarex.png", width: "50%", style: { maxWidth: "100px", marginTop: "20px", marginBottom: "20px" } }),
+                React.createElement("img", { src: "images/radarex.png", width: "100%", style: { maxWidth: "100px", marginTop: "20px", marginBottom: "20px" } }),
                 React.createElement(
                   "p",
                   null,

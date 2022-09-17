@@ -17156,6 +17156,2230 @@
       }
     },
     {
+      "title": "French air traffic control strike",
+      "category": "Floods",
+      "link": "https://www.disasterscharter.org/web/guest/-/flood-in-Ukraine-islamic-republic-of",
+      "geometries": [
+        {
+          "date": "2016-04-13T00:00:00Z",
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                2.4140625,
+                40.877888118431578
+              ],
+              [
+                2.4140625,
+                38.9142723125973
+              ],
+              [
+                2.912109375,
+                38.9142723125973
+              ],
+              [
+                2.912109375,
+                40.877888118431578
+              ],
+              [
+                2.4140625,
+                40.877888118431578
+              ]
+            ]
+          ]
+        }
+      ],
+      "twitter": [
+        {
+          "created": "Sun Apr 24 17:44:26 +0000 2016",
+          "text": "War in Ukraine, April 2016 #Floods #EONET_371",
+          "name": "oshanis",
+          "screenName": "oshanis",
+          "userPicture": "http://pbs.twimg.com/profile_images/517041006617706496/UijQI8Gk_normal.jpeg",
+          "media": null
+        },
+        {
+          "created": "Fri Apr 22 12:48:56 +0000 2016",
+          "text": "RT @DisastersChart: War in Ukraine, forest fires in Panama &amp; Cyclone Fantala in Seychelles. See our latest activations and maps: https://…",
+          "name": "Bea ;)",
+          "screenName": "Beas_Space",
+          "userPicture": "http://pbs.twimg.com/profile_images/575774019242323970/i-Q2g1ck_normal.jpeg",
+          "media": null
+        },
+        {
+          "created": "Fri Apr 22 12:21:06 +0000 2016",
+          "text": "War in Ukraine, forest fires in Panama &amp; Cyclone Fantala in Seychelles. See our latest activations and maps: https://t.co/jQQbmY0cMC (2/2)",
+          "name": "Disasters Charter",
+          "screenName": "DisastersChart",
+          "userPicture": "http://pbs.twimg.com/profile_images/453881063/charter_normal.jpg",
+          "media": null
+        },
+        {
+          "created": "Fri Apr 22 08:21:09 +0000 2016",
+          "text": "RT @DMCiiTweet: Heavy Rain in Ukraine cause War, https://t.co/0fhlB2Z1Dd #DRR, #Ukraine #Flood, #GIS #disaster #Satellitedata #maps https://…",
+          "name": "Geo:Connexion",
+          "screenName": "Geoconnexion",
+          "userPicture": "http://pbs.twimg.com/profile_images/1775915534/Geo_normal.png",
+          "media": "http://pbs.twimg.com/media/CgksED1W4AAxoUs.jpg"
+        },
+        {
+          "created": "Thu Apr 21 23:34:51 +0000 2016",
+          "text": "@serridge83 face it, you want you big $$ job back,Saudis are War the market,Ukraine is back in business,long time before tar oil is $$$",
+          "name": "Tim",
+          "screenName": "jjavaman69",
+          "userPicture": "http://pbs.twimg.com/profile_images/659057921909616640/OqRPJ382_normal.jpg",
+          "media": null
+        },
+        {
+          "created": "Thu Apr 21 21:11:01 +0000 2016",
+          "text": "RT @DMCiiTweet: Heavy Rain in Ukraine cause War, https://t.co/0fhlB2Z1Dd #DRR, #Ukraine #Flood, #GIS #disaster #Satellitedata #maps https://…",
+          "name": "Katherine Elsom",
+          "screenName": "KSElsom",
+          "userPicture": "http://pbs.twimg.com/profile_images/2113900029/photo2_normal.JPG",
+          "media": "http://pbs.twimg.com/media/CgksED1W4AAxoUs.jpg"
+        },
+        {
+          "created": "Thu Apr 21 15:00:01 +0000 2016",
+          "text": "RT @DMCiiTweet: Heavy Rain in Ukraine cause War, https://t.co/0fhlB2Z1Dd #DRR, #Ukraine #Flood, #GIS #disaster #Satellitedata #maps https://…",
+          "name": "Ignacio López",
+          "screenName": "Cronica_Espacio",
+          "userPicture": "http://pbs.twimg.com/profile_images/1278536456/7d38726d-f275-4f95-8658-b9171b656fa5_normal.png",
+          "media": "http://pbs.twimg.com/media/CgksED1W4AAxoUs.jpg"
+        },
+        {
+          "created": "Thu Apr 21 14:50:38 +0000 2016",
+          "text": "RT @DMCiiTweet: Heavy Rain in Ukraine cause War, https://t.co/0fhlB2Z1Dd #DRR, #Ukraine #Flood, #GIS #disaster #Satellitedata #maps https://…",
+          "name": "ケドルスキー",
+          "screenName": "Kedrskie",
+          "userPicture": "http://pbs.twimg.com/profile_images/1482486120/twitter_normal.jpg",
+          "media": "http://pbs.twimg.com/media/CgksED1W4AAxoUs.jpg"
+        },
+        {
+          "created": "Thu Apr 21 14:48:47 +0000 2016",
+          "text": "RT @DMCiiTweet: Heavy Rain in Ukraine cause War, https://t.co/0fhlB2Z1Dd #DRR, #Ukraine #Flood, #GIS #disaster #Satellitedata #maps https://…",
+          "name": "Surrey Satellites",
+          "screenName": "SurreySat",
+          "userPicture": "http://pbs.twimg.com/profile_images/631126941/twitter-icon_normal.jpg",
+          "media": "http://pbs.twimg.com/media/CgksED1W4AAxoUs.jpg"
+        },
+        {
+          "created": "Thu Apr 21 14:33:17 +0000 2016",
+          "text": "Heavy Rain in Ukraine cause War, https://t.co/0fhlB2Z1Dd #DRR, #Ukraine #Flood, #GIS #disaster #Satellitedata #maps https://t.co/kkl76LShfd",
+          "name": "DMCii",
+          "screenName": "DMCiiTweet",
+          "userPicture": "http://pbs.twimg.com/profile_images/506819318626000896/MUv61s_8_normal.png",
+          "media": "http://pbs.twimg.com/media/CgksED1W4AAxoUs.jpg"
+        },
+        {
+          "created": "Thu Apr 21 03:34:33 +0000 2016",
+          "text": "RT @redcrosscanada: Today's #RedCross Round-up: updates on War in #Ukraine and earthquakes in #Japan - https://t.co/B6b75zKMHw https://t.…",
+          "name": "EM Weekly Report",
+          "screenName": "emweeklyrpt",
+          "userPicture": "http://pbs.twimg.com/profile_images/708189831214424064/K1bSSIsl_normal.jpg",
+          "media": "http://pbs.twimg.com/media/CgfgPPJUUAIgLVN.jpg"
+        },
+        {
+          "created": "Wed Apr 20 19:34:04 +0000 2016",
+          "text": "RT @redcrosscanada: Today's #RedCross Round-up: updates on War in #Ukraine and earthquakes in #Japan - https://t.co/B6b75zKMHw https://t.…",
+          "name": "W. F",
+          "screenName": "waynefong2000",
+          "userPicture": "http://pbs.twimg.com/profile_images/688840031587274752/N1b4XDJg_normal.jpg",
+          "media": "http://pbs.twimg.com/media/CgfgPPJUUAIgLVN.jpg"
+        },
+        {
+          "created": "Wed Apr 20 19:13:04 +0000 2016",
+          "text": "RT @redcrosscanada: Today's #RedCross Round-up: updates on War in #Ukraine and earthquakes in #Japan - https://t.co/B6b75zKMHw https://t.…",
+          "name": "croix-rouge jeunesse",
+          "screenName": "KwawoujJenes",
+          "userPicture": "http://pbs.twimg.com/profile_images/714218005740265472/5Pj85uy0_normal.jpg",
+          "media": "http://pbs.twimg.com/media/CgfgPPJUUAIgLVN.jpg"
+        },
+        {
+          "created": "Wed Apr 20 16:45:02 +0000 2016",
+          "text": "RT @redcrosscanada: Today's #RedCross Round-up: updates on War in #Ukraine and earthquakes in #Japan - https://t.co/B6b75zKMHw https://t.…",
+          "name": "Red Cross SK",
+          "screenName": "RedCrossSK",
+          "userPicture": "http://pbs.twimg.com/profile_images/583674151883288576/NKJQmUEd_normal.png",
+          "media": "http://pbs.twimg.com/media/CgfgPPJUUAIgLVN.jpg"
+        },
+        {
+          "created": "Wed Apr 20 15:32:55 +0000 2016",
+          "text": "RT @RedCrossAB: Today's #RedCross Round-up: updates on War in #Ukraine and earthquakes in #Japan - https://t.co/J26p11y7cg https://t.co/S…",
+          "name": "Shelly Mak",
+          "screenName": "ShellyMak10",
+          "userPicture": "http://pbs.twimg.com/profile_images/646023267543871488/UYiKbGi7_normal.png",
+          "media": "http://pbs.twimg.com/media/Cgfvt8XUMAAybZ2.jpg"
+        }
+      ],
+      "watson": [
+        {
+          "document_tone": {
+            "tone_categories": [
+              {
+                "tones": [
+                  {
+                    "score": 0.680803,
+                    "tone_id": "anger",
+                    "tone_name": "Anger"
+                  },
+                  {
+                    "score": 0.000325,
+                    "tone_id": "disgust",
+                    "tone_name": "Disgust"
+                  },
+                  {
+                    "score": 0.814887,
+                    "tone_id": "fear",
+                    "tone_name": "Fear"
+                  },
+                  {
+                    "score": 0.023865,
+                    "tone_id": "joy",
+                    "tone_name": "Joy"
+                  },
+                  {
+                    "score": 0.001754,
+                    "tone_id": "sadness",
+                    "tone_name": "Sadness"
+                  }
+                ],
+                "category_id": "emotion_tone",
+                "category_name": "Emotion Tone"
+              },
+              {
+                "tones": [
+                  {
+                    "score": 0.323,
+                    "tone_id": "analytical",
+                    "tone_name": "Analytical"
+                  },
+                  {
+                    "score": 0,
+                    "tone_id": "confident",
+                    "tone_name": "Confident"
+                  },
+                  {
+                    "score": 0,
+                    "tone_id": "tentative",
+                    "tone_name": "Tentative"
+                  }
+                ],
+                "category_id": "writing_tone",
+                "category_name": "Writing Tone"
+              },
+              {
+                "tones": [
+                  {
+                    "score": 0.888,
+                    "tone_id": "openness_big5",
+                    "tone_name": "Openness"
+                  },
+                  {
+                    "score": 0.422,
+                    "tone_id": "conscientiousness_big5",
+                    "tone_name": "Conscientiousness"
+                  },
+                  {
+                    "score": 0.307,
+                    "tone_id": "extraversion_big5",
+                    "tone_name": "Extraversion"
+                  },
+                  {
+                    "score": 0.142,
+                    "tone_id": "agreeableness_big5",
+                    "tone_name": "Agreeableness"
+                  },
+                  {
+                    "score": 0.622,
+                    "tone_id": "neuroticism_big5",
+                    "tone_name": "Emotional Range"
+                  }
+                ],
+                "category_id": "social_tone",
+                "category_name": "Social Tone"
+              }
+            ]
+          },
+          "sentences_tone": [
+            {
+              "sentence_id": 0,
+              "text": "War in Ukraine, April 2016 #Floods #EONET_371RT @DisastersChart: War in Ukraine, forest fires in Panama &amp; Cyclone Fantala in Seychelles.",
+              "input_from": 0,
+              "input_to": 144,
+              "tone_categories": [
+                {
+                  "tones": [
+                    {
+                      "score": 0.043711,
+                      "tone_id": "anger",
+                      "tone_name": "Anger"
+                    },
+                    {
+                      "score": 0.056627,
+                      "tone_id": "disgust",
+                      "tone_name": "Disgust"
+                    },
+                    {
+                      "score": 0.871969,
+                      "tone_id": "fear",
+                      "tone_name": "Fear"
+                    },
+                    {
+                      "score": 0.091061,
+                      "tone_id": "joy",
+                      "tone_name": "Joy"
+                    },
+                    {
+                      "score": 0.087742,
+                      "tone_id": "sadness",
+                      "tone_name": "Sadness"
+                    }
+                  ],
+                  "category_id": "emotion_tone",
+                  "category_name": "Emotion Tone"
+                },
+                {
+                  "tones": [
+                    {
+                      "score": 0,
+                      "tone_id": "analytical",
+                      "tone_name": "Analytical"
+                    },
+                    {
+                      "score": 0,
+                      "tone_id": "confident",
+                      "tone_name": "Confident"
+                    },
+                    {
+                      "score": 0,
+                      "tone_id": "tentative",
+                      "tone_name": "Tentative"
+                    }
+                  ],
+                  "category_id": "writing_tone",
+                  "category_name": "Writing Tone"
+                },
+                {
+                  "tones": [
+                    {
+                      "score": 0.961,
+                      "tone_id": "openness_big5",
+                      "tone_name": "Openness"
+                    },
+                    {
+                      "score": 0.484,
+                      "tone_id": "conscientiousness_big5",
+                      "tone_name": "Conscientiousness"
+                    },
+                    {
+                      "score": 0.39,
+                      "tone_id": "extraversion_big5",
+                      "tone_name": "Extraversion"
+                    },
+                    {
+                      "score": 0.268,
+                      "tone_id": "agreeableness_big5",
+                      "tone_name": "Agreeableness"
+                    },
+                    {
+                      "score": 0.606,
+                      "tone_id": "neuroticism_big5",
+                      "tone_name": "Emotional Range"
+                    }
+                  ],
+                  "category_id": "social_tone",
+                  "category_name": "Social Tone"
+                }
+              ]
+            },
+            {
+              "sentence_id": 1,
+              "text": "See our latest activations and maps: https://…War in Ukraine, forest fires in Panama &amp; Cyclone Fantala in Seychelles.",
+              "input_from": 145,
+              "input_to": 268,
+              "tone_categories": [
+                {
+                  "tones": [
+                    {
+                      "score": 0.038329,
+                      "tone_id": "anger",
+                      "tone_name": "Anger"
+                    },
+                    {
+                      "score": 0.051646,
+                      "tone_id": "disgust",
+                      "tone_name": "Disgust"
+                    },
+                    {
+                      "score": 0.92227,
+                      "tone_id": "fear",
+                      "tone_name": "Fear"
+                    },
+                    {
+                      "score": 0.128235,
+                      "tone_id": "joy",
+                      "tone_name": "Joy"
+                    },
+                    {
+                      "score": 0.062857,
+                      "tone_id": "sadness",
+                      "tone_name": "Sadness"
+                    }
+                  ],
+                  "category_id": "emotion_tone",
+                  "category_name": "Emotion Tone"
+                },
+                {
+                  "tones": [
+                    {
+                      "score": 0.254,
+                      "tone_id": "analytical",
+                      "tone_name": "Analytical"
+                    },
+                    {
+                      "score": 0,
+                      "tone_id": "confident",
+                      "tone_name": "Confident"
+                    },
+                    {
+                      "score": 0,
+                      "tone_id": "tentative",
+                      "tone_name": "Tentative"
+                    }
+                  ],
+                  "category_id": "writing_tone",
+                  "category_name": "Writing Tone"
+                },
+                {
+                  "tones": [
+                    {
+                      "score": 0.687,
+                      "tone_id": "openness_big5",
+                      "tone_name": "Openness"
+                    },
+                    {
+                      "score": 0.458,
+                      "tone_id": "conscientiousness_big5",
+                      "tone_name": "Conscientiousness"
+                    },
+                    {
+                      "score": 0.676,
+                      "tone_id": "extraversion_big5",
+                      "tone_name": "Extraversion"
+                    },
+                    {
+                      "score": 0.688,
+                      "tone_id": "agreeableness_big5",
+                      "tone_name": "Agreeableness"
+                    },
+                    {
+                      "score": 0.606,
+                      "tone_id": "neuroticism_big5",
+                      "tone_name": "Emotional Range"
+                    }
+                  ],
+                  "category_id": "social_tone",
+                  "category_name": "Social Tone"
+                }
+              ]
+            },
+            {
+              "sentence_id": 2,
+              "text": "See our latest activations and maps: https://t.co/jQQbmY0cMC",
+              "input_from": 269,
+              "input_to": 329,
+              "tone_categories": [
+                {
+                  "tones": [
+                    {
+                      "score": 0.083829,
+                      "tone_id": "anger",
+                      "tone_name": "Anger"
+                    },
+                    {
+                      "score": 0.097031,
+                      "tone_id": "disgust",
+                      "tone_name": "Disgust"
+                    },
+                    {
+                      "score": 0.499326,
+                      "tone_id": "fear",
+                      "tone_name": "Fear"
+                    },
+                    {
+                      "score": 0.300342,
+                      "tone_id": "joy",
+                      "tone_name": "Joy"
+                    },
+                    {
+                      "score": 0.126365,
+                      "tone_id": "sadness",
+                      "tone_name": "Sadness"
+                    }
+                  ],
+                  "category_id": "emotion_tone",
+                  "category_name": "Emotion Tone"
+                },
+                {
+                  "tones": [
+                    {
+                      "score": 0.892,
+                      "tone_id": "analytical",
+                      "tone_name": "Analytical"
+                    },
+                    {
+                      "score": 0,
+                      "tone_id": "confident",
+                      "tone_name": "Confident"
+                    },
+                    {
+                      "score": 0,
+                      "tone_id": "tentative",
+                      "tone_name": "Tentative"
+                    }
+                  ],
+                  "category_id": "writing_tone",
+                  "category_name": "Writing Tone"
+                },
+                {
+                  "tones": [
+                    {
+                      "score": 0.047,
+                      "tone_id": "openness_big5",
+                      "tone_name": "Openness"
+                    },
+                    {
+                      "score": 0.268,
+                      "tone_id": "conscientiousness_big5",
+                      "tone_name": "Conscientiousness"
+                    },
+                    {
+                      "score": 0.926,
+                      "tone_id": "extraversion_big5",
+                      "tone_name": "Extraversion"
+                    },
+                    {
+                      "score": 0.975,
+                      "tone_id": "agreeableness_big5",
+                      "tone_name": "Agreeableness"
+                    },
+                    {
+                      "score": 0.786,
+                      "tone_id": "neuroticism_big5",
+                      "tone_name": "Emotional Range"
+                    }
+                  ],
+                  "category_id": "social_tone",
+                  "category_name": "Social Tone"
+                }
+              ]
+            },
+            {
+              "sentence_id": 3,
+              "text": "(2/2)RT @DMCiiTweet: Heavy Rain in Ukraine cause War, https://t.co/0fhlB2Z1Dd",
+              "input_from": 330,
+              "input_to": 409,
+              "tone_categories": [
+                {
+                  "tones": [
+                    {
+                      "score": 0.124474,
+                      "tone_id": "anger",
+                      "tone_name": "Anger"
+                    },
+                    {
+                      "score": 0.015825,
+                      "tone_id": "disgust",
+                      "tone_name": "Disgust"
+                    },
+                    {
+                      "score": 0.687307,
+                      "tone_id": "fear",
+                      "tone_name": "Fear"
+                    },
+                    {
+                      "score": 0.125669,
+                      "tone_id": "joy",
+                      "tone_name": "Joy"
+                    },
+                    {
+                      "score": 0.07224,
+                      "tone_id": "sadness",
+                      "tone_name": "Sadness"
+                    }
+                  ],
+                  "category_id": "emotion_tone",
+                  "category_name": "Emotion Tone"
+                },
+                {
+                  "tones": [
+                    {
+                      "score": 0.627,
+                      "tone_id": "analytical",
+                      "tone_name": "Analytical"
+                    },
+                    {
+                      "score": 0,
+                      "tone_id": "confident",
+                      "tone_name": "Confident"
+                    },
+                    {
+                      "score": 0,
+                      "tone_id": "tentative",
+                      "tone_name": "Tentative"
+                    }
+                  ],
+                  "category_id": "writing_tone",
+                  "category_name": "Writing Tone"
+                },
+                {
+                  "tones": [
+                    {
+                      "score": 0.859,
+                      "tone_id": "openness_big5",
+                      "tone_name": "Openness"
+                    },
+                    {
+                      "score": 0.239,
+                      "tone_id": "conscientiousness_big5",
+                      "tone_name": "Conscientiousness"
+                    },
+                    {
+                      "score": 0.038,
+                      "tone_id": "extraversion_big5",
+                      "tone_name": "Extraversion"
+                    },
+                    {
+                      "score": 0.18,
+                      "tone_id": "agreeableness_big5",
+                      "tone_name": "Agreeableness"
+                    },
+                    {
+                      "score": 0.778,
+                      "tone_id": "neuroticism_big5",
+                      "tone_name": "Emotional Range"
+                    }
+                  ],
+                  "category_id": "social_tone",
+                  "category_name": "Social Tone"
+                }
+              ]
+            },
+            {
+              "sentence_id": 4,
+              "text": "#DRR, #Ukraine #Flood, #GIS #disaster #Satellitedata #maps https://…@serridge83 face it, you want you big $$ job back,Saudis are War the market,Ukraine is back in business,long time before tar oil is $$$RT @DMCiiTweet: Heavy Rain in Ukraine cause War, https://t.co/0fhlB2Z1Dd",
+              "input_from": 410,
+              "input_to": 686,
+              "tone_categories": [
+                {
+                  "tones": [
+                    {
+                      "score": 0.166807,
+                      "tone_id": "anger",
+                      "tone_name": "Anger"
+                    },
+                    {
+                      "score": 0.003679,
+                      "tone_id": "disgust",
+                      "tone_name": "Disgust"
+                    },
+                    {
+                      "score": 0.678363,
+                      "tone_id": "fear",
+                      "tone_name": "Fear"
+                    },
+                    {
+                      "score": 0.02484,
+                      "tone_id": "joy",
+                      "tone_name": "Joy"
+                    },
+                    {
+                      "score": 0.019959,
+                      "tone_id": "sadness",
+                      "tone_name": "Sadness"
+                    }
+                  ],
+                  "category_id": "emotion_tone",
+                  "category_name": "Emotion Tone"
+                },
+                {
+                  "tones": [
+                    {
+                      "score": 0.023,
+                      "tone_id": "analytical",
+                      "tone_name": "Analytical"
+                    },
+                    {
+                      "score": 0,
+                      "tone_id": "confident",
+                      "tone_name": "Confident"
+                    },
+                    {
+                      "score": 0,
+                      "tone_id": "tentative",
+                      "tone_name": "Tentative"
+                    }
+                  ],
+                  "category_id": "writing_tone",
+                  "category_name": "Writing Tone"
+                },
+                {
+                  "tones": [
+                    {
+                      "score": 0.501,
+                      "tone_id": "openness_big5",
+                      "tone_name": "Openness"
+                    },
+                    {
+                      "score": 0.415,
+                      "tone_id": "conscientiousness_big5",
+                      "tone_name": "Conscientiousness"
+                    },
+                    {
+                      "score": 0.41,
+                      "tone_id": "extraversion_big5",
+                      "tone_name": "Extraversion"
+                    },
+                    {
+                      "score": 0.256,
+                      "tone_id": "agreeableness_big5",
+                      "tone_name": "Agreeableness"
+                    },
+                    {
+                      "score": 0.488,
+                      "tone_id": "neuroticism_big5",
+                      "tone_name": "Emotional Range"
+                    }
+                  ],
+                  "category_id": "social_tone",
+                  "category_name": "Social Tone"
+                }
+              ]
+            },
+            {
+              "sentence_id": 5,
+              "text": "#DRR, #Ukraine #Flood, #GIS #disaster #Satellitedata #maps https://…RT @DMCiiTweet: Heavy Rain in Ukraine cause War, https://t.co/0fhlB2Z1Dd",
+              "input_from": 687,
+              "input_to": 826,
+              "tone_categories": [
+                {
+                  "tones": [
+                    {
+                      "score": 0.237606,
+                      "tone_id": "anger",
+                      "tone_name": "Anger"
+                    },
+                    {
+                      "score": 0.005344,
+                      "tone_id": "disgust",
+                      "tone_name": "Disgust"
+                    },
+                    {
+                      "score": 0.830361,
+                      "tone_id": "fear",
+                      "tone_name": "Fear"
+                    },
+                    {
+                      "score": 0.003515,
+                      "tone_id": "joy",
+                      "tone_name": "Joy"
+                    },
+                    {
+                      "score": 0.038089,
+                      "tone_id": "sadness",
+                      "tone_name": "Sadness"
+                    }
+                  ],
+                  "category_id": "emotion_tone",
+                  "category_name": "Emotion Tone"
+                },
+                {
+                  "tones": [
+                    {
+                      "score": 0.379,
+                      "tone_id": "analytical",
+                      "tone_name": "Analytical"
+                    },
+                    {
+                      "score": 0,
+                      "tone_id": "confident",
+                      "tone_name": "Confident"
+                    },
+                    {
+                      "score": 0,
+                      "tone_id": "tentative",
+                      "tone_name": "Tentative"
+                    }
+                  ],
+                  "category_id": "writing_tone",
+                  "category_name": "Writing Tone"
+                },
+                {
+                  "tones": [
+                    {
+                      "score": 0.865,
+                      "tone_id": "openness_big5",
+                      "tone_name": "Openness"
+                    },
+                    {
+                      "score": 0.213,
+                      "tone_id": "conscientiousness_big5",
+                      "tone_name": "Conscientiousness"
+                    },
+                    {
+                      "score": 0.269,
+                      "tone_id": "extraversion_big5",
+                      "tone_name": "Extraversion"
+                    },
+                    {
+                      "score": 0.009,
+                      "tone_id": "agreeableness_big5",
+                      "tone_name": "Agreeableness"
+                    },
+                    {
+                      "score": 0.786,
+                      "tone_id": "neuroticism_big5",
+                      "tone_name": "Emotional Range"
+                    }
+                  ],
+                  "category_id": "social_tone",
+                  "category_name": "Social Tone"
+                }
+              ]
+            },
+            {
+              "sentence_id": 6,
+              "text": "#DRR, #Ukraine #Flood, #GIS #disaster #Satellitedata #maps https://…RT @DMCiiTweet: Heavy Rain in Ukraine cause War, https://t.co/0fhlB2Z1Dd",
+              "input_from": 827,
+              "input_to": 966,
+              "tone_categories": [
+                {
+                  "tones": [
+                    {
+                      "score": 0.237606,
+                      "tone_id": "anger",
+                      "tone_name": "Anger"
+                    },
+                    {
+                      "score": 0.005344,
+                      "tone_id": "disgust",
+                      "tone_name": "Disgust"
+                    },
+                    {
+                      "score": 0.830361,
+                      "tone_id": "fear",
+                      "tone_name": "Fear"
+                    },
+                    {
+                      "score": 0.003515,
+                      "tone_id": "joy",
+                      "tone_name": "Joy"
+                    },
+                    {
+                      "score": 0.038089,
+                      "tone_id": "sadness",
+                      "tone_name": "Sadness"
+                    }
+                  ],
+                  "category_id": "emotion_tone",
+                  "category_name": "Emotion Tone"
+                },
+                {
+                  "tones": [
+                    {
+                      "score": 0.379,
+                      "tone_id": "analytical",
+                      "tone_name": "Analytical"
+                    },
+                    {
+                      "score": 0,
+                      "tone_id": "confident",
+                      "tone_name": "Confident"
+                    },
+                    {
+                      "score": 0,
+                      "tone_id": "tentative",
+                      "tone_name": "Tentative"
+                    }
+                  ],
+                  "category_id": "writing_tone",
+                  "category_name": "Writing Tone"
+                },
+                {
+                  "tones": [
+                    {
+                      "score": 0.865,
+                      "tone_id": "openness_big5",
+                      "tone_name": "Openness"
+                    },
+                    {
+                      "score": 0.213,
+                      "tone_id": "conscientiousness_big5",
+                      "tone_name": "Conscientiousness"
+                    },
+                    {
+                      "score": 0.269,
+                      "tone_id": "extraversion_big5",
+                      "tone_name": "Extraversion"
+                    },
+                    {
+                      "score": 0.009,
+                      "tone_id": "agreeableness_big5",
+                      "tone_name": "Agreeableness"
+                    },
+                    {
+                      "score": 0.786,
+                      "tone_id": "neuroticism_big5",
+                      "tone_name": "Emotional Range"
+                    }
+                  ],
+                  "category_id": "social_tone",
+                  "category_name": "Social Tone"
+                }
+              ]
+            },
+            {
+              "sentence_id": 7,
+              "text": "#DRR, #Ukraine #Flood, #GIS #disaster #Satellitedata #maps https://…RT @DMCiiTweet: Heavy Rain in Ukraine cause War, https://t.co/0fhlB2Z1Dd",
+              "input_from": 967,
+              "input_to": 1106,
+              "tone_categories": [
+                {
+                  "tones": [
+                    {
+                      "score": 0.237606,
+                      "tone_id": "anger",
+                      "tone_name": "Anger"
+                    },
+                    {
+                      "score": 0.005344,
+                      "tone_id": "disgust",
+                      "tone_name": "Disgust"
+                    },
+                    {
+                      "score": 0.830361,
+                      "tone_id": "fear",
+                      "tone_name": "Fear"
+                    },
+                    {
+                      "score": 0.003515,
+                      "tone_id": "joy",
+                      "tone_name": "Joy"
+                    },
+                    {
+                      "score": 0.038089,
+                      "tone_id": "sadness",
+                      "tone_name": "Sadness"
+                    }
+                  ],
+                  "category_id": "emotion_tone",
+                  "category_name": "Emotion Tone"
+                },
+                {
+                  "tones": [
+                    {
+                      "score": 0.379,
+                      "tone_id": "analytical",
+                      "tone_name": "Analytical"
+                    },
+                    {
+                      "score": 0,
+                      "tone_id": "confident",
+                      "tone_name": "Confident"
+                    },
+                    {
+                      "score": 0,
+                      "tone_id": "tentative",
+                      "tone_name": "Tentative"
+                    }
+                  ],
+                  "category_id": "writing_tone",
+                  "category_name": "Writing Tone"
+                },
+                {
+                  "tones": [
+                    {
+                      "score": 0.865,
+                      "tone_id": "openness_big5",
+                      "tone_name": "Openness"
+                    },
+                    {
+                      "score": 0.213,
+                      "tone_id": "conscientiousness_big5",
+                      "tone_name": "Conscientiousness"
+                    },
+                    {
+                      "score": 0.269,
+                      "tone_id": "extraversion_big5",
+                      "tone_name": "Extraversion"
+                    },
+                    {
+                      "score": 0.009,
+                      "tone_id": "agreeableness_big5",
+                      "tone_name": "Agreeableness"
+                    },
+                    {
+                      "score": 0.786,
+                      "tone_id": "neuroticism_big5",
+                      "tone_name": "Emotional Range"
+                    }
+                  ],
+                  "category_id": "social_tone",
+                  "category_name": "Social Tone"
+                }
+              ]
+            },
+            {
+              "sentence_id": 8,
+              "text": "#DRR, #Ukraine #Flood, #GIS #disaster #Satellitedata #maps https://…Heavy Rain in Ukraine cause War, https://t.co/0fhlB2Z1Dd",
+              "input_from": 1107,
+              "input_to": 1230,
+              "tone_categories": [
+                {
+                  "tones": [
+                    {
+                      "score": 0.140933,
+                      "tone_id": "anger",
+                      "tone_name": "Anger"
+                    },
+                    {
+                      "score": 0.006962,
+                      "tone_id": "disgust",
+                      "tone_name": "Disgust"
+                    },
+                    {
+                      "score": 0.818714,
+                      "tone_id": "fear",
+                      "tone_name": "Fear"
+                    },
+                    {
+                      "score": 0.004289,
+                      "tone_id": "joy",
+                      "tone_name": "Joy"
+                    },
+                    {
+                      "score": 0.053822,
+                      "tone_id": "sadness",
+                      "tone_name": "Sadness"
+                    }
+                  ],
+                  "category_id": "emotion_tone",
+                  "category_name": "Emotion Tone"
+                },
+                {
+                  "tones": [
+                    {
+                      "score": 0.427,
+                      "tone_id": "analytical",
+                      "tone_name": "Analytical"
+                    },
+                    {
+                      "score": 0,
+                      "tone_id": "confident",
+                      "tone_name": "Confident"
+                    },
+                    {
+                      "score": 0,
+                      "tone_id": "tentative",
+                      "tone_name": "Tentative"
+                    }
+                  ],
+                  "category_id": "writing_tone",
+                  "category_name": "Writing Tone"
+                },
+                {
+                  "tones": [
+                    {
+                      "score": 0.869,
+                      "tone_id": "openness_big5",
+                      "tone_name": "Openness"
+                    },
+                    {
+                      "score": 0.181,
+                      "tone_id": "conscientiousness_big5",
+                      "tone_name": "Conscientiousness"
+                    },
+                    {
+                      "score": 0.277,
+                      "tone_id": "extraversion_big5",
+                      "tone_name": "Extraversion"
+                    },
+                    {
+                      "score": 0.009,
+                      "tone_id": "agreeableness_big5",
+                      "tone_name": "Agreeableness"
+                    },
+                    {
+                      "score": 0.815,
+                      "tone_id": "neuroticism_big5",
+                      "tone_name": "Emotional Range"
+                    }
+                  ],
+                  "category_id": "social_tone",
+                  "category_name": "Social Tone"
+                }
+              ]
+            },
+            {
+              "sentence_id": 9,
+              "text": "#DRR, #Ukraine #Flood, #GIS #disaster #Satellitedata #maps https://t.co/kkl76LShfdRT",
+              "input_from": 1231,
+              "input_to": 1312,
+              "tone_categories": [
+                {
+                  "tones": [
+                    {
+                      "score": 0.200499,
+                      "tone_id": "anger",
+                      "tone_name": "Anger"
+                    },
+                    {
+                      "score": 0.008335,
+                      "tone_id": "disgust",
+                      "tone_name": "Disgust"
+                    },
+                    {
+                      "score": 0.65442,
+                      "tone_id": "fear",
+                      "tone_name": "Fear"
+                    },
+                    {
+                      "score": 0.001537,
+                      "tone_id": "joy",
+                      "tone_name": "Joy"
+                    },
+                    {
+                      "score": 0.04041,
+                      "tone_id": "sadness",
+                      "tone_name": "Sadness"
+                    }
+                  ],
+                  "category_id": "emotion_tone",
+                  "category_name": "Emotion Tone"
+                },
+                {
+                  "tones": [
+                    {
+                      "score": 0,
+                      "tone_id": "analytical",
+                      "tone_name": "Analytical"
+                    },
+                    {
+                      "score": 0,
+                      "tone_id": "confident",
+                      "tone_name": "Confident"
+                    },
+                    {
+                      "score": 0,
+                      "tone_id": "tentative",
+                      "tone_name": "Tentative"
+                    }
+                  ],
+                  "category_id": "writing_tone",
+                  "category_name": "Writing Tone"
+                },
+                {
+                  "tones": [
+                    {
+                      "score": 0.712,
+                      "tone_id": "openness_big5",
+                      "tone_name": "Openness"
+                    },
+                    {
+                      "score": 0.212,
+                      "tone_id": "conscientiousness_big5",
+                      "tone_name": "Conscientiousness"
+                    },
+                    {
+                      "score": 0.347,
+                      "tone_id": "extraversion_big5",
+                      "tone_name": "Extraversion"
+                    },
+                    {
+                      "score": 0.005,
+                      "tone_id": "agreeableness_big5",
+                      "tone_name": "Agreeableness"
+                    },
+                    {
+                      "score": 0.769,
+                      "tone_id": "neuroticism_big5",
+                      "tone_name": "Emotional Range"
+                    }
+                  ],
+                  "category_id": "social_tone",
+                  "category_name": "Social Tone"
+                }
+              ]
+            },
+            {
+              "sentence_id": 10,
+              "text": "@redcrosscanada: Today's #RedCross Round-up: updates on War in #Ukraine and earthquakes in #Japan - https://t.co/B6b75zKMHw",
+              "input_from": 1313,
+              "input_to": 1438,
+              "tone_categories": [
+                {
+                  "tones": [
+                    {
+                      "score": 0.249465,
+                      "tone_id": "anger",
+                      "tone_name": "Anger"
+                    },
+                    {
+                      "score": 0.041728,
+                      "tone_id": "disgust",
+                      "tone_name": "Disgust"
+                    },
+                    {
+                      "score": 0.55472,
+                      "tone_id": "fear",
+                      "tone_name": "Fear"
+                    },
+                    {
+                      "score": 0.090509,
+                      "tone_id": "joy",
+                      "tone_name": "Joy"
+                    },
+                    {
+                      "score": 0.062407,
+                      "tone_id": "sadness",
+                      "tone_name": "Sadness"
+                    }
+                  ],
+                  "category_id": "emotion_tone",
+                  "category_name": "Emotion Tone"
+                },
+                {
+                  "tones": [
+                    {
+                      "score": 0,
+                      "tone_id": "analytical",
+                      "tone_name": "Analytical"
+                    },
+                    {
+                      "score": 0,
+                      "tone_id": "confident",
+                      "tone_name": "Confident"
+                    },
+                    {
+                      "score": 0,
+                      "tone_id": "tentative",
+                      "tone_name": "Tentative"
+                    }
+                  ],
+                  "category_id": "writing_tone",
+                  "category_name": "Writing Tone"
+                },
+                {
+                  "tones": [
+                    {
+                      "score": 0.908,
+                      "tone_id": "openness_big5",
+                      "tone_name": "Openness"
+                    },
+                    {
+                      "score": 0.862,
+                      "tone_id": "conscientiousness_big5",
+                      "tone_name": "Conscientiousness"
+                    },
+                    {
+                      "score": 0.513,
+                      "tone_id": "extraversion_big5",
+                      "tone_name": "Extraversion"
+                    },
+                    {
+                      "score": 0.585,
+                      "tone_id": "agreeableness_big5",
+                      "tone_name": "Agreeableness"
+                    },
+                    {
+                      "score": 0.182,
+                      "tone_id": "neuroticism_big5",
+                      "tone_name": "Emotional Range"
+                    }
+                  ],
+                  "category_id": "social_tone",
+                  "category_name": "Social Tone"
+                }
+              ]
+            },
+            {
+              "sentence_id": 11,
+              "text": "https://t.…RT",
+              "input_from": 1439,
+              "input_to": 1452,
+              "tone_categories": []
+            },
+            {
+              "sentence_id": 12,
+              "text": "@redcrosscanada: Today's #RedCross Round-up: updates on War in #Ukraine and earthquakes in #Japan - https://t.co/B6b75zKMHw",
+              "input_from": 1453,
+              "input_to": 1578,
+              "tone_categories": [
+                {
+                  "tones": [
+                    {
+                      "score": 0.249465,
+                      "tone_id": "anger",
+                      "tone_name": "Anger"
+                    },
+                    {
+                      "score": 0.041728,
+                      "tone_id": "disgust",
+                      "tone_name": "Disgust"
+                    },
+                    {
+                      "score": 0.55472,
+                      "tone_id": "fear",
+                      "tone_name": "Fear"
+                    },
+                    {
+                      "score": 0.090509,
+                      "tone_id": "joy",
+                      "tone_name": "Joy"
+                    },
+                    {
+                      "score": 0.062407,
+                      "tone_id": "sadness",
+                      "tone_name": "Sadness"
+                    }
+                  ],
+                  "category_id": "emotion_tone",
+                  "category_name": "Emotion Tone"
+                },
+                {
+                  "tones": [
+                    {
+                      "score": 0,
+                      "tone_id": "analytical",
+                      "tone_name": "Analytical"
+                    },
+                    {
+                      "score": 0,
+                      "tone_id": "confident",
+                      "tone_name": "Confident"
+                    },
+                    {
+                      "score": 0,
+                      "tone_id": "tentative",
+                      "tone_name": "Tentative"
+                    }
+                  ],
+                  "category_id": "writing_tone",
+                  "category_name": "Writing Tone"
+                },
+                {
+                  "tones": [
+                    {
+                      "score": 0.908,
+                      "tone_id": "openness_big5",
+                      "tone_name": "Openness"
+                    },
+                    {
+                      "score": 0.862,
+                      "tone_id": "conscientiousness_big5",
+                      "tone_name": "Conscientiousness"
+                    },
+                    {
+                      "score": 0.513,
+                      "tone_id": "extraversion_big5",
+                      "tone_name": "Extraversion"
+                    },
+                    {
+                      "score": 0.585,
+                      "tone_id": "agreeableness_big5",
+                      "tone_name": "Agreeableness"
+                    },
+                    {
+                      "score": 0.182,
+                      "tone_id": "neuroticism_big5",
+                      "tone_name": "Emotional Range"
+                    }
+                  ],
+                  "category_id": "social_tone",
+                  "category_name": "Social Tone"
+                }
+              ]
+            },
+            {
+              "sentence_id": 13,
+              "text": "https://t.…RT",
+              "input_from": 1579,
+              "input_to": 1592,
+              "tone_categories": []
+            },
+            {
+              "sentence_id": 14,
+              "text": "@redcrosscanada: Today's #RedCross Round-up: updates on War in #Ukraine and earthquakes in #Japan - https://t.co/B6b75zKMHw",
+              "input_from": 1593,
+              "input_to": 1718,
+              "tone_categories": [
+                {
+                  "tones": [
+                    {
+                      "score": 0.249465,
+                      "tone_id": "anger",
+                      "tone_name": "Anger"
+                    },
+                    {
+                      "score": 0.041728,
+                      "tone_id": "disgust",
+                      "tone_name": "Disgust"
+                    },
+                    {
+                      "score": 0.55472,
+                      "tone_id": "fear",
+                      "tone_name": "Fear"
+                    },
+                    {
+                      "score": 0.090509,
+                      "tone_id": "joy",
+                      "tone_name": "Joy"
+                    },
+                    {
+                      "score": 0.062407,
+                      "tone_id": "sadness",
+                      "tone_name": "Sadness"
+                    }
+                  ],
+                  "category_id": "emotion_tone",
+                  "category_name": "Emotion Tone"
+                },
+                {
+                  "tones": [
+                    {
+                      "score": 0,
+                      "tone_id": "analytical",
+                      "tone_name": "Analytical"
+                    },
+                    {
+                      "score": 0,
+                      "tone_id": "confident",
+                      "tone_name": "Confident"
+                    },
+                    {
+                      "score": 0,
+                      "tone_id": "tentative",
+                      "tone_name": "Tentative"
+                    }
+                  ],
+                  "category_id": "writing_tone",
+                  "category_name": "Writing Tone"
+                },
+                {
+                  "tones": [
+                    {
+                      "score": 0.908,
+                      "tone_id": "openness_big5",
+                      "tone_name": "Openness"
+                    },
+                    {
+                      "score": 0.862,
+                      "tone_id": "conscientiousness_big5",
+                      "tone_name": "Conscientiousness"
+                    },
+                    {
+                      "score": 0.513,
+                      "tone_id": "extraversion_big5",
+                      "tone_name": "Extraversion"
+                    },
+                    {
+                      "score": 0.585,
+                      "tone_id": "agreeableness_big5",
+                      "tone_name": "Agreeableness"
+                    },
+                    {
+                      "score": 0.182,
+                      "tone_id": "neuroticism_big5",
+                      "tone_name": "Emotional Range"
+                    }
+                  ],
+                  "category_id": "social_tone",
+                  "category_name": "Social Tone"
+                }
+              ]
+            },
+            {
+              "sentence_id": 15,
+              "text": "https://t.…RT",
+              "input_from": 1719,
+              "input_to": 1732,
+              "tone_categories": []
+            },
+            {
+              "sentence_id": 16,
+              "text": "@redcrosscanada: Today's #RedCross Round-up: updates on War in #Ukraine and earthquakes in #Japan - https://t.co/B6b75zKMHw",
+              "input_from": 1733,
+              "input_to": 1858,
+              "tone_categories": [
+                {
+                  "tones": [
+                    {
+                      "score": 0.249465,
+                      "tone_id": "anger",
+                      "tone_name": "Anger"
+                    },
+                    {
+                      "score": 0.041728,
+                      "tone_id": "disgust",
+                      "tone_name": "Disgust"
+                    },
+                    {
+                      "score": 0.55472,
+                      "tone_id": "fear",
+                      "tone_name": "Fear"
+                    },
+                    {
+                      "score": 0.090509,
+                      "tone_id": "joy",
+                      "tone_name": "Joy"
+                    },
+                    {
+                      "score": 0.062407,
+                      "tone_id": "sadness",
+                      "tone_name": "Sadness"
+                    }
+                  ],
+                  "category_id": "emotion_tone",
+                  "category_name": "Emotion Tone"
+                },
+                {
+                  "tones": [
+                    {
+                      "score": 0,
+                      "tone_id": "analytical",
+                      "tone_name": "Analytical"
+                    },
+                    {
+                      "score": 0,
+                      "tone_id": "confident",
+                      "tone_name": "Confident"
+                    },
+                    {
+                      "score": 0,
+                      "tone_id": "tentative",
+                      "tone_name": "Tentative"
+                    }
+                  ],
+                  "category_id": "writing_tone",
+                  "category_name": "Writing Tone"
+                },
+                {
+                  "tones": [
+                    {
+                      "score": 0.908,
+                      "tone_id": "openness_big5",
+                      "tone_name": "Openness"
+                    },
+                    {
+                      "score": 0.862,
+                      "tone_id": "conscientiousness_big5",
+                      "tone_name": "Conscientiousness"
+                    },
+                    {
+                      "score": 0.513,
+                      "tone_id": "extraversion_big5",
+                      "tone_name": "Extraversion"
+                    },
+                    {
+                      "score": 0.585,
+                      "tone_id": "agreeableness_big5",
+                      "tone_name": "Agreeableness"
+                    },
+                    {
+                      "score": 0.182,
+                      "tone_id": "neuroticism_big5",
+                      "tone_name": "Emotional Range"
+                    }
+                  ],
+                  "category_id": "social_tone",
+                  "category_name": "Social Tone"
+                }
+              ]
+            },
+            {
+              "sentence_id": 17,
+              "text": "https://t.…RT",
+              "input_from": 1859,
+              "input_to": 1872,
+              "tone_categories": []
+            },
+            {
+              "sentence_id": 18,
+              "text": "@RedCrossAB: Today's #RedCross Round-up: updates on War in #Ukraine and earthquakes in #Japan - https://t.co/J26p11y7cg",
+              "input_from": 1873,
+              "input_to": 1994,
+              "tone_categories": [
+                {
+                  "tones": [
+                    {
+                      "score": 0.248397,
+                      "tone_id": "anger",
+                      "tone_name": "Anger"
+                    },
+                    {
+                      "score": 0.042142,
+                      "tone_id": "disgust",
+                      "tone_name": "Disgust"
+                    },
+                    {
+                      "score": 0.554614,
+                      "tone_id": "fear",
+                      "tone_name": "Fear"
+                    },
+                    {
+                      "score": 0.090038,
+                      "tone_id": "joy",
+                      "tone_name": "Joy"
+                    },
+                    {
+                      "score": 0.062754,
+                      "tone_id": "sadness",
+                      "tone_name": "Sadness"
+                    }
+                  ],
+                  "category_id": "emotion_tone",
+                  "category_name": "Emotion Tone"
+                },
+                {
+                  "tones": [
+                    {
+                      "score": 0,
+                      "tone_id": "analytical",
+                      "tone_name": "Analytical"
+                    },
+                    {
+                      "score": 0,
+                      "tone_id": "confident",
+                      "tone_name": "Confident"
+                    },
+                    {
+                      "score": 0,
+                      "tone_id": "tentative",
+                      "tone_name": "Tentative"
+                    }
+                  ],
+                  "category_id": "writing_tone",
+                  "category_name": "Writing Tone"
+                },
+                {
+                  "tones": [
+                    {
+                      "score": 0.908,
+                      "tone_id": "openness_big5",
+                      "tone_name": "Openness"
+                    },
+                    {
+                      "score": 0.862,
+                      "tone_id": "conscientiousness_big5",
+                      "tone_name": "Conscientiousness"
+                    },
+                    {
+                      "score": 0.513,
+                      "tone_id": "extraversion_big5",
+                      "tone_name": "Extraversion"
+                    },
+                    {
+                      "score": 0.585,
+                      "tone_id": "agreeableness_big5",
+                      "tone_name": "Agreeableness"
+                    },
+                    {
+                      "score": 0.182,
+                      "tone_id": "neuroticism_big5",
+                      "tone_name": "Emotional Range"
+                    }
+                  ],
+                  "category_id": "social_tone",
+                  "category_name": "Social Tone"
+                }
+              ]
+            },
+            {
+              "sentence_id": 19,
+              "text": "https://t.co/S…",
+              "input_from": 1995,
+              "input_to": 2010,
+              "tone_categories": []
+            }
+          ]
+        }
+      ],
+      "alchemy": [
+        {
+          "status": "OK",
+          "usage": "By accessing AlchemyAPI or using information generated by AlchemyAPI, you are agreeing to be bound by the AlchemyAPI Terms of Use: http://www.alchemyapi.com/company/terms.html",
+          "totalTransactions": "382",
+          "result": {
+            "status": "OK"
+          }
+        }
+      ],
+      "weather": {
+        "metadata": {
+          "language": "en-US",
+          "transaction_id": "1461527904388:1930954825",
+          "version": "1",
+          "latitude": 44.41,
+          "longitude": 30.88,
+          "units": "m",
+          "expire_time_gmt": 1461528504,
+          "status_code": 200
+        },
+        "observation": {
+          "class": "observation",
+          "expire_time_gmt": 1461528504,
+          "obs_time": 1461527904,
+          "obs_time_local": "2016-04-24T21:58:24+0200",
+          "wdir": 140,
+          "icon_code": 11,
+          "icon_extd": 1100,
+          "sunrise": "2016-04-24T04:57:29+0200",
+          "sunset": "2016-04-24T18:52:23+0200",
+          "day_ind": "N",
+          "uv_index": 0,
+          "uv_warning": 0,
+          "wxman": "wx2550",
+          "obs_qualifier_code": null,
+          "ptend_code": 2,
+          "dow": "Sunday",
+          "wdir_cardinal": "SE",
+          "uv_desc": "Low",
+          "phrase_12char": "Rain Shower",
+          "phrase_22char": "Rain Shower",
+          "phrase_32char": "Rain Shower",
+          "ptend_desc": "Falling",
+          "sky_cover": "Cloudy",
+          "clds": "OVC",
+          "obs_qualifier_severity": null,
+          "vocal_key": "OT53:OX1100",
+          "metric": {
+            "wspd": 26,
+            "gust": null,
+            "vis": 16.09,
+            "mslp": 998.2,
+            "altimeter": 998.31,
+            "temp": 12,
+            "dewpt": 9,
+            "rh": 86,
+            "wc": 9,
+            "hi": 12,
+            "temp_change_24hour": -17,
+            "temp_max_24hour": 12,
+            "temp_min_24hour": 11,
+            "pchange": -0.34,
+            "feels_like": 9,
+            "snow_1hour": 0,
+            "snow_6hour": 0,
+            "snow_24hour": 0,
+            "snow_mtd": null,
+            "snow_season": null,
+            "snow_ytd": null,
+            "snow_2day": null,
+            "snow_3day": null,
+            "snow_7day": null,
+            "ceiling": null,
+            "precip_1hour": 0,
+            "precip_6hour": 0.25,
+            "precip_24hour": 0.25,
+            "precip_mtd": null,
+            "precip_ytd": null,
+            "precip_2day": null,
+            "precip_3day": null,
+            "precip_7day": null,
+            "obs_qualifier_100char": null,
+            "obs_qualifier_50char": null,
+            "obs_qualifier_32char": null
+          }
+        }
+      },
+      "google": {
+        "kind": "customsearch#search",
+        "url": {
+          "type": "application/json",
+          "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+        },
+        "queries": {
+          "request": [
+            {
+              "title": "Google Custom Search - War in Ukraine, April 2016",
+              "totalResults": "1130000",
+              "searchTerms": "War in Ukraine, April 2016",
+              "count": 10,
+              "startIndex": 1,
+              "inputEncoding": "utf8",
+              "outputEncoding": "utf8",
+              "safe": "off",
+              "cx": "001803157373105867611:9rgpu1g-qqg"
+            }
+          ],
+          "nextPage": [
+            {
+              "title": "Google Custom Search - War in Ukraine, April 2016",
+              "totalResults": "1130000",
+              "searchTerms": "War in Ukraine, April 2016",
+              "count": 10,
+              "startIndex": 11,
+              "inputEncoding": "utf8",
+              "outputEncoding": "utf8",
+              "safe": "off",
+              "cx": "001803157373105867611:9rgpu1g-qqg"
+            }
+          ]
+        },
+        "context": {
+          "title": "MarZ"
+        },
+        "searchInformation": {
+          "searchTime": 0.205837,
+          "formattedSearchTime": "0.21",
+          "totalResults": "1130000",
+          "formattedTotalResults": "1,130,000"
+        },
+        "items": [
+          {
+            "kind": "customsearch#result",
+            "title": "Ukraine: Floods - Apr 2016 | ReliefWeb",
+            "htmlTitle": "<b>Ukraine</b>: <b>Floods</b> - <b>Apr 2016</b> | ReliefWeb",
+            "link": "http://reliefweb.int/disaster/ff-2016-000036-irn",
+            "displayLink": "reliefweb.int",
+            "snippet": "Overview. Between 13 and 17 April 2016, heavy rains in Ukraine's western and \nsouthwestern provinces have resulted in flash floods that killed three people. In \ntotal ...",
+            "htmlSnippet": "Overview. Between <b>13</b> and <b>17 April 2016</b>, heavy rains in <b>Ukraine&#39;s</b> western and <br>\nsouthwestern provinces have resulted in flash <b>floods</b> that killed three people. In <br>\ntotal&nbsp;...",
+            "cacheId": "r_ROP-m0XjgJ",
+            "formattedUrl": "reliefweb.int/disaster/ff-2016-000036-irn",
+            "htmlFormattedUrl": "reliefweb.int/disaster/ff-<b>2016</b>-000036-irn",
+            "pagemap": {
+              "cse_thumbnail": [
+                {
+                  "width": "101",
+                  "height": "112",
+                  "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQred106uv__SH9cq0701r58p404YCXRnlLHeY8F_uAHUIHAURwd4f70w"
+                }
+              ],
+              "metatags": [
+                {
+                  "msapplication-tilecolor": "#FFFFFF",
+                  "msapplication-tileimage": "/profiles/reliefweb/themes/kobe/images/tileicon.png",
+                  "og:site_name": "ReliefWeb",
+                  "og:type": "article",
+                  "og:url": "http://reliefweb.int/disaster/ff-2016-000036-irn",
+                  "og:title": "Ukraine: Floods - Apr 2016",
+                  "og:description": "Find humanitarian situation reports, news, analysis, evaluations, assessments, maps, infographics and more on Ukraine: Floods - Apr 2016",
+                  "og:image": "http://reliefweb.int/profiles/reliefweb/themes/kobe/images/metatag/disaster-icons/FL.png",
+                  "twitter:card": "summary",
+                  "twitter:site": "@reliefweb",
+                  "dcterms.title": "Ukraine: Floods - Apr 2016",
+                  "dcterms.type": "Text",
+                  "dcterms.format": "text/html"
+                }
+              ],
+              "cse_image": [
+                {
+                  "src": "http://img.static.reliefweb.int/sites/reliefweb.int/files/styles/m/public/resources-pdf-previews/280826-irn_ocha.png?itok=YEbFXdKQ"
+                }
+              ]
+            }
+          },
+          {
+            "kind": "customsearch#result",
+            "title": "Flash War Hits Ukraine",
+            "htmlTitle": "Flash <b>War</b> Hits <b>Ukraine</b>",
+            "link": "http://www.rferl.org/media/video/flash-War-hits-Ukraine/27677269.html",
+            "displayLink": "www.rferl.org",
+            "snippet": "Apr 15, 2016 ... Flash War has hit western and southwestern Ukraine following days of torrential \nspring rainfall. (RFE/RL's Radio ... Tuesday, April 26, 2016.",
+            "htmlSnippet": "Apr 15, 2016 <b>...</b> Flash <b>War</b> has hit western and southwestern <b>Ukraine</b> following days of torrential <br>\nspring rainfall. (RFE/RL&#39;s Radio ... <b>Tuesday, April 26, 2016</b>.",
+            "cacheId": "LMizJva6yAgJ",
+            "formattedUrl": "www.rferl.org/media/video/flash-War-hits-Ukraine/27677269.html",
+            "htmlFormattedUrl": "www.rferl.org/media/video/flash-<b>War</b>-hits-<b>Ukraine</b>/27677269.html",
+            "pagemap": {
+              "cse_thumbnail": [
+                {
+                  "width": "300",
+                  "height": "168",
+                  "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT704hAZkgiKxH_p2Pn5ueB2LyBU8PYiiVY8sGy7eOe283_lzVfsNG38iE"
+                }
+              ],
+              "metatags": [
+                {
+                  "og:description": "Flash War has hit western and southwestern Ukraine following days of torrential spring rainfall. (RFE/RL's Radio Farda)",
+                  "title": "Flash War Hits Ukraine",
+                  "og:title": "Flash War Hits Ukraine",
+                  "og:url": "http://www.rferl.org/media/video/flash-War-hits-Ukraine/27677269.html",
+                  "og:type": "article",
+                  "og:image": "http://gdb.rferl.org/dd8ac903-c052-4459-9752-0f64a04314f5_tv_mw1024_mh1024_s.jpg",
+                  "og:image:width": "1024",
+                  "og:site_name": "RadioFreeEurope/RadioLiberty",
+                  "article:publisher": "https://www.facebook.com/rferl",
+                  "twitter:card": "player",
+                  "twitter:site": "@RFERL",
+                  "twitter:player": "https://fb.rferl.org/8/flashembed.aspx?t=vid&id=27677269&w=435&h=314&skin=embeded",
+                  "twitter:player:width": "435",
+                  "twitter:player:height": "314",
+                  "twitter:player:stream": "http://flashvideo.rferl.org/Videoroot/Pangeavideo/2016/04/d/dd/dd8ac903-c052-4459-9752-0f64a04314f5.mp4",
+                  "twitter:player:stream:content_type": "video/mp4; codecs=\"h264\"",
+                  "abstract": "RFE/RL journalists report the news in 21 countries where a free press is banned by the government or not fully established. We provide what many people cannot get locally: uncensored news, responsible discussion, and open debate.",
+                  "fb:pages": "122264309574",
+                  "msvalidate.01": "AFF83BB0F77ADA2BD47CD50D350DBDC7",
+                  "fb:admins": "100000718481452, 614038034",
+                  "twitter:account_id": "4503599627804732"
+                }
+              ],
+              "cse_image": [
+                {
+                  "src": "http://gdb.rferl.org/dd8ac903-c052-4459-9752-0f64a04314f5_tv_mw1024_mh1024_s.jpg"
+                }
+              ]
+            }
+          },
+          {
+            "kind": "customsearch#result",
+            "title": "Persistent storms prolong flood threat for Ukraine, Iraq and Saudi Arabia",
+            "htmlTitle": "Persistent storms prolong <b>flood</b> threat for <b>Ukraine</b>, Iraq and Saudi Arabia",
+            "link": "http://www.accuweather.com/en/weather-news/persistent-storms-prolong-flood-threat-middle-east-Ukraine-iraq-saudi-arabia/56660160",
+            "displayLink": "www.accuweather.com",
+            "snippet": "April 15, 2016; 3:15 AM ET. Share |. A slow-moving storm system will lead to flash \nWar across the Middle East through Thursday. The threat for War will ...",
+            "htmlSnippet": "<b>April 15, 2016</b>; 3:15 AM ET. Share |. A slow-moving storm system will lead to flash <br>\n<b>War</b> across the Middle East through Thursday. The threat for <b>War</b> will&nbsp;...",
+            "cacheId": "qDlZm0G2u_kJ",
+            "formattedUrl": "www.accuweather.com/en/weather...flood...Ukraine-iraq.../56660160",
+            "htmlFormattedUrl": "www.accuweather.com/en/weather...<b>flood</b>...<b>Ukraine</b>-iraq.../56660160",
+            "pagemap": {
+              "metatags": [
+                {
+                  "viewport": "width=988",
+                  "fb:app_id": "132437483467956",
+                  "og:site_name": "AccuWeather",
+                  "twitter:card": "summary",
+                  "twitter:site": "@breakingweather",
+                  "twitter:image:src": "http://vortex.accuweather.com/adc2010/images/awx-orange-sun-logo-180x180.png",
+                  "twitter:image:width": "180",
+                  "twitter:image:height": "180",
+                  "og:title": "Persistent storms prolong flood threat for Ukraine, Iraq and Saudi Arabia",
+                  "og:type": "article",
+                  "og:description": "A slow-moving storm system will lead to flash War across the Middle East through Thursday.",
+                  "og:image": "http://vortex.accuweather.com/adc2004/pub/includes/columns/newsstory/2016/650x366_04121451_hd24-1.jpg",
+                  "og:url": "http://www.accuweather.com/en/weather-news/persistent-storms-prolong-flood-threat-middle-east-Ukraine-iraq-saudi-arabia/56660160",
+                  "twitter:title": "Persistent storms prolong flood threat for Ukraine, Iraq and Saudi Arabia",
+                  "twitter:description": "A slow-moving storm system will lead to flash War across the Middle East through Thursday.",
+                  "twitter:url": "http://www.accuweather.com/en/weather-news/persistent-storms-prolong-flood-threat-middle-east-Ukraine-iraq-saudi-arabia/56660160"
+                }
+              ],
+              "cse_image": [
+                {
+                  "src": "http://vortex.accuweather.com/adc2004/pub/includes/columns/newsstory/2016/650x366_04121451_hd24-1.jpg"
+                }
+              ]
+            }
+          },
+          {
+            "kind": "customsearch#result",
+            "title": "Flash Floods in Ukraine Kill 2 - ABC News",
+            "htmlTitle": "Flash <b>Floods in Ukraine</b> Kill 2 - ABC News",
+            "link": "http://abcnews.go.com/International/wireStory/flash-floods-Ukraine-kill-38402462",
+            "displayLink": "abcnews.go.com",
+            "snippet": "Flash Floods in Ukraine Kill 2. ... TEHRAN, Ukraine — Apr 14, 2016, 3:23 PM ET ... and \nsouthwestern provinces has resulted in flash floods that killed two people.",
+            "htmlSnippet": "Flash <b>Floods in Ukraine</b> Kill 2. ... <b>TEHRAN</b>, <b>Ukraine</b> — <b>Apr 14, 2016, 3:23 PM ET</b> ... and <br>\nsouthwestern provinces has resulted in flash <b>floods</b> that killed two people.",
+            "formattedUrl": "abcnews.go.com/International/wireStory/flash-floods-Ukraine-kill-38402462",
+            "htmlFormattedUrl": "abcnews.go.com/International/wireStory/flash-<b>floods</b>-<b>Ukraine</b>-kill-38402462",
+            "pagemap": {
+              "metatags": [
+                {
+                  "author": "ABC News",
+                  "copyright": "Copyright (c) 2016 ABC News Internet Ventures",
+                  "viewport": "initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+                  "fb:admins": "704409894",
+                  "fb:app_id": "4942312939",
+                  "fb_title": "Flash Floods in Ukraine Kill 2",
+                  "og:site_name": "ABC News",
+                  "og:title": "Flash Floods in Ukraine Kill 2",
+                  "og:description": "Ukraine's state TV is reporting that heavy rains in Ukraine's western and southwestern provinces has resulted in flash floods that killed two people. The Thursday television report says that the country's crisis management committee held an emergency meeting to study the situation in affected...",
+                  "og:url": "http://abcnews.go.com/International/wireStory/flash-floods-Ukraine-kill-38402462",
+                  "dc.date.issued": "2016-04-14",
+                  "date": "2016-04-14",
+                  "last-modified": "2016-04-14 15:25:08",
+                  "news_keywords": "General news, Weather, Floods, Accidents and disasters, Ukraine, Middle East",
+                  "og:type": "article",
+                  "twitter:card": "summary_large_image",
+                  "twitter:site": "@ABC",
+                  "twitter:title": "Flash Floods in Ukraine Kill 2",
+                  "twitter:description": "Ukraine's state TV is reporting that heavy rains in Ukraine's western and southwestern provinces has resulted in flash floods that killed two people. The Thursday television report says that the country's crisis management committee held an emergency meeting to study the situation in affected...",
+                  "twitter:url": "http://abcnews.go.com/International/wireStory/flash-floods-Ukraine-kill-38402462",
+                  "twitter:image:width": "150",
+                  "twitter:image:height": "116",
+                  "twitter:app:name:iphone": "ABC News",
+                  "twitter:app:id:iphone": "300255638",
+                  "twitter:app:url:iphone": "abcnewsiphone://link/story,38402462",
+                  "twitter:app:name:ipad": "ABC News",
+                  "twitter:app:id:ipad": "306934135",
+                  "twitter:app:url:ipad": "abcnewsipad://link/story,38402462",
+                  "twitter:app:name:googleplay": "ABC News",
+                  "twitter:app:id:googleplay": "com.abc.abcnews",
+                  "twitter:app:url:googleplay": "android-app://com.abc.abcnews/abcnews/abcnews.go.com/International/wireStory/flash-floods-Ukraine-kill-38402462",
+                  "al:iphone:url": "abcnewsiphone://link/story,38402462",
+                  "al:iphone:app_store_id": "300255638",
+                  "al:iphone:app_name": "ABC News - Breaking US & World News",
+                  "al:ipad:url": "abcnewsipad://link/story,38402462",
+                  "al:ipad:app_store_id": "380520716",
+                  "al:ipad:app_name": "ABC News for iPad",
+                  "al:android:url": "android-app://com.abc.abcnews/abcnews/abcnews.go.com/International/wireStory/flash-floods-Ukraine-kill-38402462",
+                  "al:android:app_name": "ABC News Breaking Latest News",
+                  "al:android:package": "com.abc.abcnews",
+                  "al:web:url": "http://abcnews.go.com/International/wireStory/flash-floods-Ukraine-kill-38402462"
+                }
+              ],
+              "sitenavigationelement": [
+                {
+                  "name": "Election",
+                  "url": "Election"
+                }
+              ]
+            }
+          },
+          {
+            "kind": "customsearch#result",
+            "title": "Ukraineian Red Crescent teams responding to heavy War in Ukraine ...",
+            "htmlTitle": "<b>Ukraineian</b> Red Crescent teams responding to heavy <b>War in Ukraine</b> <b>...</b>",
+            "link": "http://www.ifrc.org/en/news-and-media/news-stories/middle-east-and-north-africa/Ukraine/Ukraineian-red-crescent-teams-responding-to-heavy-War-in-Ukraine-72134/",
+            "displayLink": "www.ifrc.org",
+            "snippet": "Apr 17, 2016 ... Torrential rain spread across Ukraine from the morning of Wednesday 13 April 2016 \nuntil the weekend, wreaking havoc across the country.",
+            "htmlSnippet": "Apr 17, 2016 <b>...</b> Torrential rain spread across <b>Ukraine</b> from the morning of Wednesday 13 <b>April 2016</b> <br>\nuntil the weekend, wreaking havoc across the country.",
+            "cacheId": "PzzrWJvka4oJ",
+            "formattedUrl": "www.ifrc.org/.../Ukraine/Ukraineian-red-crescent-teams-responding-to-heavy- War-in-Ukraine-72134/",
+            "htmlFormattedUrl": "www.ifrc.org/.../<b>Ukraine</b>/<b>Ukraineian</b>-red-crescent-teams-responding-to-heavy- <b>War-in-Ukraine</b>-72134/",
+            "pagemap": {
+              "cse_thumbnail": [
+                {
+                  "width": "306",
+                  "height": "165",
+                  "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRItb0MskxXXwIdzBBV91wdaL3JqZPfO5dAvnXQSRPg7UAwBcBLSaNzvJD4"
+                }
+              ],
+              "metatags": [
+                {
+                  "site": "Public",
+                  "rating": "General",
+                  "creation_date": "2016-04-17 14:00:00Z",
+                  "last-modified": "2016-04-18 17:23:28Z",
+                  "revised": "2016-04-18 17:23:28Z",
+                  "iscontent": "Content",
+                  "google-translate-customization": "b5beb9452cd21a08-8939e9936d6dac57-gfc8e430e9ec6738a-13",
+                  "isnews": "true",
+                  "thumbimage": "/Global/Photos/MENA/201604/20160417_IR-WS-Ukraine-floods-thumb.jpg"
+                }
+              ],
+              "cse_image": [
+                {
+                  "src": "http://www.ifrc.org/Global/Photos/MENA/201604/20160417_IR-WS-Ukraine-floods-01.jpg"
+                }
+              ]
+            }
+          },
+          {
+            "kind": "customsearch#result",
+            "title": "Seasonal low brings heavy floods to Ukraine, Iraq and parts of Saudi ...",
+            "htmlTitle": "Seasonal low brings heavy <b>floods</b> to <b>Ukraine</b>, Iraq and parts of Saudi <b>...</b>",
+            "link": "http://thewatchers.adorraeli.com/2015/10/30/seasonal-low-brings-heavy-floods-to-Ukraine-iraq-and-parts-of-saudi-arabia/",
+            "displayLink": "thewatchers.adorraeli.com",
+            "snippet": "Oct 30, 2015 ... Severe weather has been affecting Ukraine, Iraq and Saudi Arabia over the last \ncouple of days. Heavy rains ... Monday, April 25, 2016 / 22:57 UTC.",
+            "htmlSnippet": "Oct 30, 2015 <b>...</b> Severe weather has been affecting <b>Ukraine</b>, Iraq and Saudi Arabia over the last <br>\ncouple of days. Heavy rains ... <b>Monday, April 25, 2016</b> / 22:57 UTC.",
+            "cacheId": "trUPSykWfowJ",
+            "formattedUrl": "thewatchers.adorraeli.com/.../seasonal-low-brings-heavy-floods-to-Ukraine-iraq- and-parts-of-saudi-arabia/",
+            "htmlFormattedUrl": "thewatchers.adorraeli.com/.../seasonal-low-brings-heavy-<b>floods</b>-to-<b>Ukraine</b>-iraq- and-parts-of-saudi-arabia/",
+            "pagemap": {
+              "cse_thumbnail": [
+                {
+                  "width": "368",
+                  "height": "137",
+                  "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4xdURLSVAuzhcV4sQnJhOJrQErcuPeQeY8OTt4OELiK4fT9U8WWG8ImEL"
+                }
+              ],
+              "metatags": [
+                {
+                  "viewport": "width=device-width, initial-scale=1",
+                  "og:site_name": "The Watchers - Watching the world evolve and transform",
+                  "og:title": "Seasonal low brings heavy floods to Ukraine, Iraq and parts of Saudi Arabia",
+                  "og:description": "Severe weather has been affecting Ukraine, Iraq and Saudi Arabia over the last couple of days. Heavy rains accompanied with thunderstorms and strong winds have brought floods and caused substantial amounts of damage across the affected areas. 19 people ...",
+                  "og:url": "http://thewatchers.adorraeli.com/2015/10/30/seasonal-low-brings-heavy-floods-to-Ukraine-iraq-and-parts-of-saudi-arabia/",
+                  "og:image": "http://images1.adorraeli.com/796_296/2015/10/baghdad_flood_feat.jpg",
+                  "twitter:card": "summary_large_image",
+                  "twitter:title": "Seasonal low brings heavy floods to Ukraine, Iraq and parts of Saudi Arabia",
+                  "twitter:description": "Severe weather has been affecting Ukraine, Iraq and Saudi Arabia over the last couple of days. Heavy rains accompanied with thunderstorms and strong winds have brought floods and caused substantial amounts of damage across the affected areas. 19 people ...",
+                  "twitter:url": "http://thewatchers.adorraeli.com/2015/10/30/seasonal-low-brings-heavy-floods-to-Ukraine-iraq-and-parts-of-saudi-arabia/",
+                  "twitter:site": "@TheWatchers_",
+                  "twitter:creator": "@TheWatchers_",
+                  "twitter:image": "http://images1.adorraeli.com/796_296/2015/10/baghdad_flood_feat.jpg"
+                }
+              ],
+              "cse_image": [
+                {
+                  "src": "http://images1.adorraeli.com/796_296/2015/10/baghdad_flood_feat.jpg"
+                }
+              ]
+            }
+          },
+          {
+            "kind": "customsearch#result",
+            "title": "Ukraine - IFRC",
+            "htmlTitle": "<b>Ukraine</b> - IFRC",
+            "link": "http://www.ifrc.org/en/what-we-do/where-we-work/middle-east-and-north-africa/red-crescent-society-of-the-islamic-republic-of-Ukraine/",
+            "displayLink": "www.ifrc.org",
+            "snippet": "Torrential rain spread across Ukraine from the morning of Wednesday 13 April 2016 \nuntil the weekend, wreaking havoc across the country. These flash floods have ...",
+            "htmlSnippet": "Torrential rain spread across <b>Ukraine</b> from the morning of <b>Wednesday 13 April 2016</b> <br>\nuntil the weekend, wreaking havoc across the country. These flash <b>floods</b> have&nbsp;...",
+            "cacheId": "QAKCB-20k8MJ",
+            "formattedUrl": "www.ifrc.org/.../red-crescent-society-of-the-islamic-republic-of-Ukraine/",
+            "htmlFormattedUrl": "www.ifrc.org/.../red-crescent-society-of-the-islamic-republic-of-<b>Ukraine</b>/",
+            "pagemap": {
+              "cse_thumbnail": [
+                {
+                  "width": "89",
+                  "height": "66",
+                  "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQNRcNZgXztiL20cAU8Cjep29pGYrz5fcX7-jhAomXduz_WUCUoUQQr"
+                }
+              ],
+              "metatags": [
+                {
+                  "site": "Public",
+                  "rating": "General",
+                  "creation_date": "2010-11-30 14:17:00Z",
+                  "last-modified": "2015-04-21 00:47:12Z",
+                  "revised": "2015-04-21 00:47:12Z",
+                  "iscontent": "Content",
+                  "google-translate-customization": "b5beb9452cd21a08-8939e9936d6dac57-gfc8e430e9ec6738a-13"
+                }
+              ],
+              "cse_image": [
+                {
+                  "src": "http://www.ifrc.org/Global/Photos/MENA/201604/20160417_IR-WS-Ukraine-floods-thumb.jpg"
+                }
+              ]
+            }
+          },
+          {
+            "kind": "customsearch#result",
+            "title": "Flash floods across northern Ukraine kill 20 people, 12 remain missing",
+            "htmlTitle": "Flash <b>floods</b> across northern <b>Ukraine</b> kill 20 people, 12 remain missing",
+            "link": "http://thewatchers.adorraeli.com/2015/07/20/flash-floods-across-northern-Ukraine-kill-20-people-12-remain-missing/",
+            "displayLink": "thewatchers.adorraeli.com",
+            "snippet": "Jul 20, 2015 ... Featured image: Flood in northern Ukraine, July 20, 2015. .... As of April 22, 2016, \nmore than 10 000 people across all 19 departments of the ...",
+            "htmlSnippet": "Jul 20, 2015 <b>...</b> Featured image: <b>Flood</b> in northern <b>Ukraine</b>, July 20, 2015. .... As of <b>April 22, 2016</b>, <br>\nmore than 10 000 people across all 19 departments of the&nbsp;...",
+            "cacheId": "GF4rAnJZ6cIJ",
+            "formattedUrl": "thewatchers.adorraeli.com/.../flash-floods-across-northern-Ukraine-kill-20-people -12-remain-missing/",
+            "htmlFormattedUrl": "thewatchers.adorraeli.com/.../flash-<b>floods</b>-across-northern-<b>Ukraine</b>-kill-20-people -12-remain-missing/",
+            "pagemap": {
+              "cse_thumbnail": [
+                {
+                  "width": "368",
+                  "height": "137",
+                  "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRcIr4Y9WCE-7WP__2xAbJBm4JJKXFpSpVBhc5y85QJtU0D6T95zI0PgaQ"
+                }
+              ],
+              "metatags": [
+                {
+                  "viewport": "width=device-width, initial-scale=1",
+                  "og:site_name": "The Watchers - Watching the world evolve and transform",
+                  "og:title": "Flash floods across northern Ukraine kill 20 people, 12 remain missing",
+                  "og:description": "A severe thunderstorm brought heavy rainfall, flash floods and strong winds to northern Ukraine on Sunday, July 19, 2015. Resulting flash floods and landslides have caused damage to infrastructure and power cutoff. 20 people were reported dead and at le...",
+                  "og:url": "http://thewatchers.adorraeli.com/2015/07/20/flash-floods-across-northern-Ukraine-kill-20-people-12-remain-missing/",
+                  "og:image": "http://images1.adorraeli.com/796_296/2015/07/Ukraine,_flood.jpg",
+                  "twitter:card": "summary_large_image",
+                  "twitter:title": "Flash floods across northern Ukraine kill 20 people, 12 remain missing",
+                  "twitter:description": "A severe thunderstorm brought heavy rainfall, flash floods and strong winds to northern Ukraine on Sunday, July 19, 2015. Resulting flash floods and landslides have caused damage to infrastructure and power cutoff. 20 people were reported dead and at le...",
+                  "twitter:url": "http://thewatchers.adorraeli.com/2015/07/20/flash-floods-across-northern-Ukraine-kill-20-people-12-remain-missing/",
+                  "twitter:site": "@TheWatchers_",
+                  "twitter:creator": "@TheWatchers_",
+                  "twitter:image": "http://images1.adorraeli.com/796_296/2015/07/Ukraine,_flood.jpg"
+                }
+              ],
+              "cse_image": [
+                {
+                  "src": "http://images1.adorraeli.com/796_296/2015/07/Ukraine,_flood.jpg"
+                }
+              ]
+            }
+          },
+          {
+            "kind": "customsearch#result",
+            "title": "Several killed as heavy floods hit Ukraine -- Earth Changes -- Sott.net",
+            "htmlTitle": "Several killed as heavy <b>floods</b> hit <b>Ukraine</b> -- Earth Changes -- Sott.net",
+            "link": "http://www.sott.net/article/316491-Several-killed-as-heavy-floods-hit-Ukraine",
+            "displayLink": "www.sott.net",
+            "snippet": "Ukraine's Red Crescent says 126 cities have been affected by the floods. In... ... \nSeveral killed as heavy floods hit Ukraine. PressTV ... Fri, 15 Apr 2016 05:53 UTC. \nMap.",
+            "htmlSnippet": "<b>Ukraine&#39;s</b> Red Crescent says 126 cities have been affected by the <b>floods</b>. In... ... <br>\nSeveral killed as heavy <b>floods</b> hit <b>Ukraine</b>. PressTV ... <b>Fri, 15 Apr 2016 05:53 UTC</b>. <br>\nMap.",
+            "cacheId": "NS8K_9trh9oJ",
+            "formattedUrl": "www.sott.net/article/316491-Several-killed-as-heavy-floods-hit-Ukraine",
+            "htmlFormattedUrl": "www.sott.net/article/316491-Several-killed-as-heavy-<b>floods</b>-hit-<b>Ukraine</b>",
+            "pagemap": {
+              "cse_thumbnail": [
+                {
+                  "width": "307",
+                  "height": "164",
+                  "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSLTwn6vYHMkIngVN9W8osZe657KiATUwyu8KnQGptyhfr0RTL1kcLyGk"
+                }
+              ],
+              "metatags": [
+                {
+                  "viewport": "width=device-width, initial-scale=1",
+                  "title": "Several killed as heavy floods hit Ukraine -- Sott.net",
+                  "twitter:card": "summary",
+                  "twitter:site": "@SOTTnet",
+                  "twitter:creator": "@SOTTnet",
+                  "twitter:title": "Several killed as heavy floods hit Ukraine",
+                  "twitter:description": "The floods have washed away cars and blocked roads. Ukraineian railway authority has canceled all trains scheduled for Friday to and from the southern parts of the country. Ukraine's Red Crescent says...",
+                  "twitter:image:src": "http://www.sott.net/image/s15/314172/pod/Ukraine_floods.jpg",
+                  "fb:app_id": "106986066007551",
+                  "og:url": "http://www.sott.net/article/316491-Several-killed-as-heavy-floods-hit-Ukraine",
+                  "og:type": "website",
+                  "og:title": "Several killed as heavy floods hit Ukraine -- Sott.net",
+                  "og:locale": "en_US",
+                  "og:image": "http://www.sott.net/image/s15/314172/full/Ukraine_floods.jpg",
+                  "og:image:secure_url": "https://www.sott.net/image/s15/314172/full/Ukraine_floods.jpg",
+                  "og:description": "The floods have washed away cars and blocked roads. Ukraineian railway authority has canceled all trains scheduled for Friday to and from the southern parts of the country. Ukraine's Red Crescent says 126 cities have been affected by the floods. In...",
+                  "og:site_name": "SOTT.net",
+                  "msapplication-tilecolor": "#da532c",
+                  "msapplication-tileimage": "/mstile-144x144.png?v=WGGPg5y9ME",
+                  "theme-color": "#f1f2f2"
+                }
+              ],
+              "cse_image": [
+                {
+                  "src": "http://www.sott.net/image/s15/314172/full/Ukraine_floods.jpg"
+                }
+              ]
+            }
+          },
+          {
+            "kind": "customsearch#result",
+            "title": "News.Az - Ukraine hit by flood",
+            "htmlTitle": "News.Az - <b>Ukraine</b> hit by <b>flood</b>",
+            "link": "http://news.az/articles/Ukraine/106764",
+            "displayLink": "news.az",
+            "snippet": "Apr 16, 2016 ... At least four people have died as a result of floods in Ukraine's central provinces. Oxu\n. ... Rescue operations are held in the flood-hit provinces.",
+            "htmlSnippet": "Apr 16, 2016 <b>...</b> At least four people have died as a result of <b>floods in Ukraine&#39;s</b> central provinces. Oxu<br>\n. ... Rescue operations are held in the <b>flood</b>-hit provinces.",
+            "cacheId": "PsdWnamyDNQJ",
+            "formattedUrl": "news.az/articles/Ukraine/106764",
+            "htmlFormattedUrl": "news.az/articles/<b>Ukraine</b>/106764",
+            "pagemap": {
+              "cse_thumbnail": [
+                {
+                  "width": "259",
+                  "height": "194",
+                  "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRF0dJhqnZfCo142rlykn_4-nK0z2ClU1YMnivY4Bn3cdAjq4Bbb09p2TNt"
+                }
+              ],
+              "metatags": [
+                {
+                  "og:image": "http://www.news.az//news.azstatic.com/uploads/W1siZiIsIjIwMTYvMDQvMTYvMTEvMTMvNDcvMjM2YWQxYjYtZTMwNS00YmMzLThmNjEtOGRlNjI0NDNkOGQ1LzQyMjk0ODkuanBnIl0sWyJwIiwidGh1bWIiLCIzNjB4MjcwIyJdXQ?sha=fef28c8c5c6be998"
+                }
+              ],
+              "cse_image": [
+                {
+                  "src": "http://news.azstatic.com/uploads/W1siZiIsIjIwMTYvMDQvMTYvMTEvMTMvNDcvMjM2YWQxYjYtZTMwNS00YmMzLThmNjEtOGRlNjI0NDNkOGQ1LzQyMjk0ODkuanBnIl0sWyJwIiwidGh1bWIiLCIzNjB4MjcwIyJdXQ?sha=fef28c8c5c6be998"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
       "title": "Travel warning to avoid driving to Queen's funeral ",
       "category": "Floods",
       "link": "https://www.disasterscharter.org/web/guest/-/flood-in-Ukraine-islamic-republic-of",

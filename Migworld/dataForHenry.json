@@ -14996,7 +14996,7 @@
           "name": "Geo:Connexion",
           "screenName": "Geoconnexion",
           "userPicture": "http://pbs.twimg.com/profile_images/1775915534/Geo_normal.png",
-          "media": "http://pbs.twimg.com/media/CgksED1W4AAxoUs.jpg"
+          "media": "https://ichef.bbci.co.uk/news/976/cpsprodpb/C6C2/production/_126728805_mediaitem126728804.jpg"
         },
         {
           "created": "Thu Apr 21 23:34:51 +0000 2016",
@@ -17158,7 +17158,7 @@
     {
       "title": "French air traffic control strike",
       "category": "Floods",
-      "link": "https://www.disasterscharter.org/web/guest/-/flood-in-Ukraine-islamic-republic-of",
+      "link": "https://www.bbc.com/news/business-62924064",
       "geometries": [
         {
           "date": "2016-04-13T00:00:00Z",
@@ -17191,35 +17191,11 @@
       ],
       "twitter": [
         {
-          "created": "Sun Apr 24 17:44:26 +0000 2016",
-          "text": "War in Ukraine, April 2016 #Floods #EONET_371",
-          "name": "oshanis",
-          "screenName": "oshanis",
-          "userPicture": "http://pbs.twimg.com/profile_images/517041006617706496/UijQI8Gk_normal.jpeg",
-          "media": null
-        },
-        {
-          "created": "Fri Apr 22 12:48:56 +0000 2016",
-          "text": "RT @DisastersChart: War in Ukraine, forest fires in Panama &amp; Cyclone Fantala in Seychelles. See our latest activations and maps: https://…",
-          "name": "Bea ;)",
-          "screenName": "Beas_Space",
-          "userPicture": "http://pbs.twimg.com/profile_images/575774019242323970/i-Q2g1ck_normal.jpeg",
-          "media": null
-        },
-        {
-          "created": "Fri Apr 22 12:21:06 +0000 2016",
-          "text": "War in Ukraine, forest fires in Panama &amp; Cyclone Fantala in Seychelles. See our latest activations and maps: https://t.co/jQQbmY0cMC (2/2)",
-          "name": "Disasters Charter",
-          "screenName": "DisastersChart",
-          "userPicture": "http://pbs.twimg.com/profile_images/453881063/charter_normal.jpg",
-          "media": null
-        },
-        {
           "created": "Fri Apr 22 08:21:09 +0000 2016",
           "text": "RT @DMCiiTweet: Heavy Rain in Ukraine cause War, https://t.co/0fhlB2Z1Dd #DRR, #Ukraine #Flood, #GIS #disaster #Satellitedata #maps https://…",
           "name": "Geo:Connexion",
           "screenName": "Geoconnexion",
-          "userPicture": "http://pbs.twimg.com/profile_images/1775915534/Geo_normal.png",
+          "userPicture": "icons/images/icons_07.png",
           "media": "https://apiwp.thelocal.com/wp-content/uploads/2022/06/000_32C68UD-646x422.jpg"
         },
         {

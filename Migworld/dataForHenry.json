@@ -19052,7 +19052,7 @@
               {
                 "tones": [
                   {
-                    "score": 0.680803,
+                    "score": 0.180803,
                     "tone_id": "anger",
                     "tone_name": "Anger"
                   },
@@ -19062,7 +19062,7 @@
                     "tone_name": "Disgust"
                   },
                   {
-                    "score": 0.814887,
+                    "score": 0.314887,
                     "tone_id": "fear",
                     "tone_name": "Fear"
                   },
@@ -19072,7 +19072,7 @@
                     "tone_name": "Joy"
                   },
                   {
-                    "score": 0.001754,
+                    "score": 0.9154,
                     "tone_id": "sadness",
                     "tone_name": "Sadness"
                   }

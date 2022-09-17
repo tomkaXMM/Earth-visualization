@@ -209,7 +209,7 @@ define(["exports"], function (exports) {
               return React.createElement(
                 "div",
                 null,
-                React.createElement("img", { src: "images/based.png", width: "50%", style: { maxWidth: "100px", marginTop: "20px", marginBottom: "20px" } }),
+                React.createElement("img", { src: "images/radarex.png", width: "50%", style: { maxWidth: "100px", marginTop: "20px", marginBottom: "20px" } }),
                 React.createElement(
                   "p",
                   null,
@@ -343,7 +343,7 @@ define(["exports"], function (exports) {
                 React.createElement(
                   "p",
                   null,
-                  "Made by Aris Koumis and Henry Tran."
+                  "Made with love from Ukraine."
                 )
               );
             }

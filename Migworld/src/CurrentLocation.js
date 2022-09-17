@@ -1,6 +1,7 @@
 define(['exports', './Beacon.js', './Loaders.js'], function (exports, _Beacon, _Loaders) {
   'use strict';
 
+
   Object.defineProperty(exports, "__esModule", {
     value: true
   });
@@ -113,6 +114,7 @@ define(['exports', './Beacon.js', './Loaders.js'], function (exports, _Beacon, _
       beacon.position.z = -2.5;
       _this.beacon = beacon;
       _this.beacon.mesh.material.map = Loaders.Texture("images/current_location.png");
+
 
       var updateListener = function () {
         _this.update();

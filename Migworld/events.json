@@ -2,35 +2,35 @@
   {
     "id": "FL-2016-000041-URY",
     "category": "Flood",
-    "year": 2016,
+    "year": 2022,
     "latitude": -33.5339107,
     "longitude": -58.2177722
   },
   {
     "id": "FL-2016-000041-URY",
     "category": "Flood",
-    "year": 2016,
+    "year": 2022,
     "latitude": -33.5339107,
     "longitude": -58.2177722
   },
   {
     "id": "EP-2016-000040-PNG",
     "category": "None",
-    "year": 2016,
+    "year": 2022,
     "latitude": 0,
     "longitude": 0
   },
   {
     "id": "ST-2016-000039-MMR",
     "category": "Severe Storms",
-    "year": 2016,
+    "year": 2022,
     "latitude": 0,
     "longitude": 0
   },
   {
     "id": "TC-2016-000038-WSM",
     "category": "Severe Storms",
-    "year": 2016,
+    "year": 2022,
     "latitude": 0,
     "longitude": 0
   },
@@ -44,63 +44,63 @@
   {
     "id": "FF-2016-000036-IRN",
     "category": "Flood",
-    "year": 2016,
+    "year": 2022,
     "latitude": 31.325486676507,
     "longitude": 48.6865234375
   },
   {
     "id": "EQ-2016-000035-ECU",
     "category": "Earthquakes",
-    "year": 2016,
+    "year": 2022,
     "latitude": 0,
     "longitude": 0
   },
   {
     "id": "FF-2016-000034-YEM",
     "category": "Flood",
-    "year": 2016,
+    "year": 2022,
     "latitude": 0,
     "longitude": 0
   },
   {
     "id": "EQ-2016-000033-JPN",
     "category": "Earthquakes",
-    "year": 2016,
+    "year": 2022,
     "latitude": 32.7,
     "longitude": 130.8
   },
   {
     "id": "EP-2016-000032-MDV",
     "category": "None",
-    "year": 2016,
+    "year": 2022,
     "latitude": 0,
     "longitude": 0
   },
   {
     "id": "EP-2016-000031-VNM",
     "category": "None",
-    "year": 2016,
+    "year": 2022,
     "latitude": 0,
     "longitude": 0
   },
   {
     "id": "EQ-2016-000030-MMR",
     "category": "Earthquakes",
-    "year": 2016,
+    "year": 2022,
     "latitude": 0,
     "longitude": 0
   },
   {
     "id": "EP-2016-000029-ZMB",
     "category": "None",
-    "year": 2016,
+    "year": 2022,
     "latitude": -14.2643830875626,
     "longitude": 26.23046875
   },
   {
     "id": "EQ-2016-000028-AFG",
     "category": "Earthquakes",
-    "year": 2016,
+    "year": 2022,
     "latitude": 0,
     "longitude": 0
   },

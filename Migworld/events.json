@@ -344,24 +344,10 @@
   },
   {
     "id": "VO-2015-000025-CRI",
-    "category": "War",
+    "category": "Flood",
     "year": 2015,
     "latitude": 10.018891373074,
     "longitude": -83.7652587890625
-  },
-  {
-    "id": "VO-2015-000025-CRI",
-    "category": "Strike",
-    "year": 2015,
-    "latitude": 15.018891373074,
-    "longitude": -93.7652587890625
-  },
-  {
-    "id": "VO-2015-000025-CRI",
-    "category": "Political",
-    "year": 2015,
-    "latitude": 12.018891373074,
-    "longitude": -87.7652587890625
   },
   {
     "id": "FL-2015-000024-ARG",

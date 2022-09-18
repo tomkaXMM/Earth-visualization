@@ -221,8 +221,8 @@ define(['exports', './Loaders.js', './Tweet.js', './CurrentLocation.js', './Cate
       _this.add(_this.neuralMesh);
       _this.neuralMesh.rotation.x = Math.PI / 2;
 
-    //  _this.neuralImg = new Image();
-    //  _this.neuralImg.src = 'images/neural.png';
+      _this.neuralImg = new Image();
+      _this.neuralImg.src = 'images/neural.png';
 
     _this.portImg = new Image();
      _this.portImg.src = 'images/port.png';
@@ -233,8 +233,8 @@ define(['exports', './Loaders.js', './Tweet.js', './CurrentLocation.js', './Cate
         canvas.height = _this.neuralImg.height;
 
        //canvas.getContext('2d').drawImage(_this.neuralImg, 0, 0, _this.neuralImg.width, _this.neuralImg.height);
-        canvas.getContext('2d').fillRect(100,100,10,10);
-        canvas.getContext('2d').drawImage(_this.portImg, 100, 100, _this.portImg.width, _this.portImg.height);
+      //  canvas.getContext('2d').fillRect(100,100,10,10);
+      //  canvas.getContext('2d').drawImage(_this.portImg, 100, 100, _this.portImg.width, _this.portImg.height);
         _this.neuralCanvas = canvas;
       };
 

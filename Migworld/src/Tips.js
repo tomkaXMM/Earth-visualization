@@ -99,7 +99,7 @@ define(["exports", "./CategoryColors.js"], function (exports, _CategoryColors) {
                 React.createElement(
                   "p",
                   null,
-                  "Based World is an interface to view current natural disasters and their effects."
+                  "Radarex is an interface to view current natural disasters and their effects on logistics."
                 ),
                 React.createElement(
                   "p",
@@ -109,7 +109,7 @@ define(["exports", "./CategoryColors.js"], function (exports, _CategoryColors) {
                 React.createElement(
                   "p",
                   null,
-                  "Using our Neural Network map, educate yourself on how to prepare for a natural event depending on the region you live in."
+                  "Using our Neural Network map, educate your stuff on how to prepare for a natural event depending on the region you are"
                 ),
                 React.createElement(
                   "h3",
@@ -121,7 +121,7 @@ define(["exports", "./CategoryColors.js"], function (exports, _CategoryColors) {
                   null,
                   React.createElement(
                     "a",
-                    { href: "https://github.com/qwook/3rdRock/" },
+                    { href: "https://github.com/tomkamk/" },
                     "Click here to view our source code."
                   )
                 ),
@@ -133,7 +133,7 @@ define(["exports", "./CategoryColors.js"], function (exports, _CategoryColors) {
                 React.createElement(
                   "p",
                   null,
-                  "Due to API limitations, we are not able to render data in real time. Instead, we display a snapshot of data from April 27th."
+                  "Due to API limitations, we are not able to render data in real time. "
                 ),
                 React.createElement(
                   "p",

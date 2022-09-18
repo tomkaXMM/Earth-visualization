@@ -216,7 +216,7 @@ define(['exports', './Loaders.js', './Tweet.js', './CurrentLocation.js', './Cate
 //upload png image
       _this.neuralMesh = new THREE.Mesh(new THREE.SphereGeometry(10.1, 50, 50), new THREE.MeshBasicMaterial({
         map: Loaders.Texture('images/neural.png'),
-        opacity: 0.0,
+        opacity: 0.5,
         transparent: true
       }));
 
@@ -233,7 +233,7 @@ define(['exports', './Loaders.js', './Tweet.js', './CurrentLocation.js', './Cate
         canvas.width = _this.neuralImg.width;
         canvas.height = _this.neuralImg.height;
 
-       //canvas.getContext('2d').drawImage(_this.neuralImg, 0, 0, _this.neuralImg.width, _this.neuralImg.height);
+       canvas.getContext('2d').drawImage(_this.neuralImg, 0, 0, _this.neuralImg.width, _this.neuralImg.height);
       //  canvas.getContext('2d').fillRect(100,100,10,10);
         canvas.getContext('2d').drawImage(_this.portImg, 0, 0, _this.portImg.width, _this.portImg.height);
         _this.neuralCanvas = canvas;

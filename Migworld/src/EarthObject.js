@@ -211,8 +211,7 @@ define(['exports', './Loaders.js', './Tweet.js', './CurrentLocation.js', './Cate
       _this.add(_this.outlineMesh);
       _this.outlineMesh.rotation.x = Math.PI / 2;
 
-      _this.portImg = new Image();
-       _this.portImg.src = 'images/port.png';
+
 //upload png image
       _this.neuralMesh = new THREE.Mesh(new THREE.SphereGeometry(10.1, 50, 50), new THREE.MeshBasicMaterial({
         map: Loaders.Texture('images/neural.png'),
@@ -235,8 +234,16 @@ define(['exports', './Loaders.js', './Tweet.js', './CurrentLocation.js', './Cate
 
        canvas.getContext('2d').drawImage(_this.neuralImg, 0, 0, _this.neuralImg.width, _this.neuralImg.height);
       //  canvas.getContext('2d').fillRect(100,100,10,10);
-        canvas.getContext('2d').drawImage(_this.portImg, 0, 0, _this.portImg.width, _this.portImg.height);
+        canvas.getContext('2d').drawImage(_this.portImg, 200, 200, _this.portImg.width, _this.portImg.height);
         _this.neuralCanvas = canvas;
+
+const image = document.getElementById('images/port.png');
+const ctx = canvas.getContext('2d');
+
+
+image.addEventListener('load', (e) => {
+  ctx.drawImage(image, 33, 71, 104, 124, 21, 20, 87, 104);
+});
       };
 
       _this.hovering = false;
